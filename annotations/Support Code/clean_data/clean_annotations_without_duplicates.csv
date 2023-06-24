@@ -1,0 +1,1479 @@
+acronym,expansion,language,type,doc_id,annotator
+m,meter,en,out_expansion,Conus_eugrammatus,dsgeorgiev90@yahoo.com
+°C,Celsius,en,out_expansion,Conus_eugrammatus,dsgeorgiev90@yahoo.com
+КНР,Китайската народна република,bg,out_expansion,Conus_eugrammatus,dsgeorgiev90@yahoo.com
+САЩ,Съединени Американски Щати,bg,out_expansion,Conus_eugrammatus,dsgeorgiev90@yahoo.com
+m,meter,en,out_expansion,Conus_eugrammatus,violeta.todorovaaa@gmail.com
+°C,Celsius,en,out_expansion,Conus_eugrammatus,violeta.todorovaaa@gmail.com
+КНР,Китайската народна република,bg,out_expansion,Conus_eugrammatus,violeta.todorovaaa@gmail.com
+САЩ,Съединени Американски Щати,bg,out_expansion,Conus_eugrammatus,violeta.todorovaaa@gmail.com
+ES6,ECMAScript 6,en,out_expansion,JavaScript,contact@iliyasgeorgiev.com
+HTML,HyperText Markup Language,en,out_expansion,JavaScript,contact@iliyasgeorgiev.com
+JSON,JavaScript Object Notation,en,out_expansion,JavaScript,contact@iliyasgeorgiev.com
+г.,година,bg,out_expansion,JavaScript,contact@iliyasgeorgiev.com
+ES6,ECMAScript 6,en,out_expansion,JavaScript,petya.stoyanovaaaa@gmail.com
+HTML,HyperText Markup Language,en,out_expansion,JavaScript,petya.stoyanovaaaa@gmail.com
+JSON,JavaScript Object Notation,en,out_expansion,JavaScript,petya.stoyanovaaaa@gmail.com
+VBScript,Microsoft Visual Basic Scripting Edition,en,out_expansion,JavaScript,petya.stoyanovaaaa@gmail.com
+г.,година,bg,out_expansion,JavaScript,petya.stoyanovaaaa@gmail.com
+OMG,Object Management Group,en,in_expansion,UML,contact@iliyasgeorgiev.com
+OMT,Object-modeling technique,en,out_expansion,UML,contact@iliyasgeorgiev.com
+OOSE,Object-Oriented Software Engineering,en,out_expansion,UML,contact@iliyasgeorgiev.com
+UML,Unified Modeling Language,en,out_expansion,UML,contact@iliyasgeorgiev.com
+ИТ,Информационните технологии,bg,out_expansion,UML,contact@iliyasgeorgiev.com
+IBM,International Business Machines Corporation,en,out_expansion,UML,dsgeorgiev90@yahoo.com
+OMG,Object Management Group,en,in_expansion,UML,dsgeorgiev90@yahoo.com
+OMT,Object-modeling technique,en,out_expansion,UML,dsgeorgiev90@yahoo.com
+OOSE,Object-Oriented Software Engineering,en,out_expansion,UML,dsgeorgiev90@yahoo.com
+UML,Unified Modeling Language,en,out_expansion,UML,dsgeorgiev90@yahoo.com
+ИТ,Информационните технологии,bg,out_expansion,UML,dsgeorgiev90@yahoo.com
+АПК,Административнопроцесуалния кодекс,bg,in_expansion,Административен_акт,g.yordanov999@gmail.com
+ДВ,Държавен вестник,bg,out_expansion,Административен_акт,g.yordanov999@gmail.com
+ал.,алинея,bg,out_expansion,Административен_акт,g.yordanov999@gmail.com
+бр.,брой,bg,out_expansion,Административен_акт,g.yordanov999@gmail.com
+т.е.,тоест,bg,out_expansion,Административен_акт,g.yordanov999@gmail.com
+чл.,член,bg,out_expansion,Административен_акт,g.yordanov999@gmail.com
+АПК,Административнопроцесуалния кодекс,bg,in_expansion,Административен_акт,violeta.todorovaaa@gmail.com
+ДВ,Държавен вестник,bg,out_expansion,Административен_акт,violeta.todorovaaa@gmail.com
+ал.,алинея,bg,out_expansion,Административен_акт,violeta.todorovaaa@gmail.com
+бр.,брой,bg,out_expansion,Административен_акт,violeta.todorovaaa@gmail.com
+т.е.,тоест,bg,out_expansion,Административен_акт,violeta.todorovaaa@gmail.com
+чл.,член,bg,out_expansion,Административен_акт,violeta.todorovaaa@gmail.com
+АД,Акционерно дружество,bg,in_expansion,Акционерно_дружество,dsgeorgiev90@yahoo.com
+ЕАД,еднолично акционерно дружество,bg,in_expansion,Акционерно_дружество,dsgeorgiev90@yahoo.com
+АД,Акционерно дружество,bg,in_expansion,Акционерно_дружество,stella.vouteva@gmail.com
+ЕАД,еднолично акционерно дружество,bg,in_expansion,Акционерно_дружество,stella.vouteva@gmail.com
+АПА,Американската психологична асоциация,bg,in_expansion,Американска_психологична_асоциация,dsgeorgiev90@yahoo.com
+САЩ,Съединените Американски Щати,bg,out_expansion,Американска_психологична_асоциация,dsgeorgiev90@yahoo.com
+млн.,милион,bg,out_expansion,Американска_психологична_асоциация,dsgeorgiev90@yahoo.com
+АПА,Американската психологична асоциация,bg,in_expansion,Американска_психологична_асоциация,georgitidorov4508@gmail.com
+млн.,милион,other language,out_expansion,Американска_психологична_асоциация,georgitidorov4508@gmail.com
+ВУЗ,Висше учебно заведение,bg,out_expansion,Амстердамски_университет,dsgeorgiev90@yahoo.com
+г.,година,bg,out_expansion,Амстердамски_университет,dsgeorgiev90@yahoo.com
+млн.,милиона,bg,out_expansion,Амстердамски_университет,dsgeorgiev90@yahoo.com
+хил.,хиляди,bg,out_expansion,Амстердамски_университет,dsgeorgiev90@yahoo.com
+ВУЗ,Висше учебно заведение,bg,out_expansion,Амстердамски_университет,violeta.todorovaaa@gmail.com
+г.,година,bg,out_expansion,Амстердамски_университет,violeta.todorovaaa@gmail.com
+млн.,милиона,bg,out_expansion,Амстердамски_университет,violeta.todorovaaa@gmail.com
+хил.,хиляди,bg,out_expansion,Амстердамски_университет,violeta.todorovaaa@gmail.com
+БКК,Банковата консолидационна компания,bg,in_expansion,Банкова_консолидационна_компания,dsgeorgiev90@yahoo.com
+ДПС,Движение за права и свободи,bg,out_expansion,Банкова_консолидационна_компания,dsgeorgiev90@yahoo.com
+ДСК,Държавна спестовна каса,bg,out_expansion,Банкова_консолидационна_компания,dsgeorgiev90@yahoo.com
+НДСВ,Национално движение за стабилност и възход,bg,out_expansion,Банкова_консолидационна_компания,dsgeorgiev90@yahoo.com
+г.,година,bg,out_expansion,Банкова_консолидационна_компания,dsgeorgiev90@yahoo.com
+гр.,град,bg,out_expansion,Банкова_консолидационна_компания,dsgeorgiev90@yahoo.com
+млрд.,милиард,bg,out_expansion,Банкова_консолидационна_компания,dsgeorgiev90@yahoo.com
+п.к.,пощенски код,bg,out_expansion,Банкова_консолидационна_компания,dsgeorgiev90@yahoo.com
+ул.,улица,bg,out_expansion,Банкова_консолидационна_компания,dsgeorgiev90@yahoo.com
+БКК,Банковата консолидационна компания,bg,in_expansion,Банкова_консолидационна_компания,stella.vouteva@gmail.com
+ДПС,Движение за права и свободи,bg,out_expansion,Банкова_консолидационна_компания,stella.vouteva@gmail.com
+НДСВ,Национално движение за стабилност и възход,bg,out_expansion,Банкова_консолидационна_компания,stella.vouteva@gmail.com
+г.,година,bg,out_expansion,Банкова_консолидационна_компания,stella.vouteva@gmail.com
+гр.,град,bg,out_expansion,Банкова_консолидационна_компания,stella.vouteva@gmail.com
+п.к.,пощенски код,bg,out_expansion,Банкова_консолидационна_компания,stella.vouteva@gmail.com
+ул.,улица,bg,out_expansion,Банкова_консолидационна_компания,stella.vouteva@gmail.com
+2D,two dimensional,en,out_expansion,Баркод,g.yordanov999@gmail.com
+EAN,European Article Numbering,en,in_expansion,Баркод,g.yordanov999@gmail.com
+ISBN,International Standard Book Number,en,out_expansion,Баркод,g.yordanov999@gmail.com
+ISSN,International Standard Serial Number,en,out_expansion,Баркод,g.yordanov999@gmail.com
+ITF,Interleaved Two of Five,en,out_expansion,Баркод,g.yordanov999@gmail.com
+QR,quick response code,en,out_expansion,Баркод,g.yordanov999@gmail.com
+UCC,Uniform Code Council,en,in_expansion,Баркод,g.yordanov999@gmail.com
+UPC,Universal Product Code,en,in_expansion,Баркод,g.yordanov999@gmail.com
+US,United States,en,out_expansion,Баркод,g.yordanov999@gmail.com
+БТПП,Българска търговско-промишлена палата,bg,in_expansion,Баркод,g.yordanov999@gmail.com
+ЕАН,Европейски номер на артикула,bg,out_expansion,Баркод,g.yordanov999@gmail.com
+САЩ,Съединени Американски Щати,bg,out_expansion,Баркод,g.yordanov999@gmail.com
+г.,година,bg,out_expansion,Баркод,g.yordanov999@gmail.com
+2D,two dimensional,en,out_expansion,Баркод,petya.stoyanovaaaa@gmail.com
+EAN,European Article Numbering,en,in_expansion,Баркод,petya.stoyanovaaaa@gmail.com
+ISBN,International Standard Book Number,en,out_expansion,Баркод,petya.stoyanovaaaa@gmail.com
+ISSN,International Standard Serial Number,en,out_expansion,Баркод,petya.stoyanovaaaa@gmail.com
+ITF,Interleaved Two of Five,en,out_expansion,Баркод,petya.stoyanovaaaa@gmail.com
+QR,quick response code,en,out_expansion,Баркод,petya.stoyanovaaaa@gmail.com
+UCC,Uniform Code Council,en,in_expansion,Баркод,petya.stoyanovaaaa@gmail.com
+UPC,Universal Product Code,en,in_expansion,Баркод,petya.stoyanovaaaa@gmail.com
+US,United States,en,out_expansion,Баркод,petya.stoyanovaaaa@gmail.com
+БТПП,Българска търговско-промишлена палата,bg,in_expansion,Баркод,petya.stoyanovaaaa@gmail.com
+ЕАН,Европейски номер на артикула,bg,out_expansion,Баркод,petya.stoyanovaaaa@gmail.com
+САЩ,Съединени Американски Щати,en,out_expansion,Баркод,petya.stoyanovaaaa@gmail.com
+г.,година,en,out_expansion,Баркод,petya.stoyanovaaaa@gmail.com
+WTA,Women's Tennis Association,en,out_expansion,Берлин,dsgeorgiev90@yahoo.com
+km,kilometer,en,out_expansion,Берлин,dsgeorgiev90@yahoo.com
+km²,Square kilometer,en,out_expansion,Берлин,dsgeorgiev90@yahoo.com
+m,meter,en,out_expansion,Берлин,dsgeorgiev90@yahoo.com
+°C,Celsius,en,out_expansion,Берлин,dsgeorgiev90@yahoo.com
+БВП,Брутен вътрешен продукт,bg,out_expansion,Берлин,dsgeorgiev90@yahoo.com
+ВУЗ,Висше учебно заведени,bg,out_expansion,Берлин,dsgeorgiev90@yahoo.com
+ГДР,Германска демократична република,bg,out_expansion,Берлин,dsgeorgiev90@yahoo.com
+ЕС,Европейския съюз,bg,in_expansion,Берлин,dsgeorgiev90@yahoo.com
+САЩ,Съединени Американски Щати,bg,out_expansion,Берлин,dsgeorgiev90@yahoo.com
+СК,спортен клуб,bg,out_expansion,Берлин,dsgeorgiev90@yahoo.com
+СССР,Съюз на съветските социалистически републики,bg,out_expansion,Берлин,dsgeorgiev90@yahoo.com
+ФК,Футболен клуб,bg,out_expansion,Берлин,dsgeorgiev90@yahoo.com
+ЮНЕСКО,"Организация на Обединените нации по въпросите на образованието, науката и културата",bg,out_expansion,Берлин,dsgeorgiev90@yahoo.com
+г.,година,en,out_expansion,Берлин,dsgeorgiev90@yahoo.com
+млрд.,милиард,bg,out_expansion,Берлин,dsgeorgiev90@yahoo.com
+пр.н.е.,преди новата ера,bg,out_expansion,Берлин,dsgeorgiev90@yahoo.com
+WTA,Women's Tennis Association,en,out_expansion,Берлин,violeta.todorovaaa@gmail.com
+km,kilometer,en,out_expansion,Берлин,violeta.todorovaaa@gmail.com
+km²,Square kilometer,en,out_expansion,Берлин,violeta.todorovaaa@gmail.com
+m,meter,en,out_expansion,Берлин,violeta.todorovaaa@gmail.com
+°C,Celsius,en,out_expansion,Берлин,violeta.todorovaaa@gmail.com
+БВП,Брутен вътрешен продукт,bg,out_expansion,Берлин,violeta.todorovaaa@gmail.com
+ВУЗ,Висше учебно заведени,bg,out_expansion,Берлин,violeta.todorovaaa@gmail.com
+ГДР,Германска демократична република,bg,out_expansion,Берлин,violeta.todorovaaa@gmail.com
+ЕС,Европейския съюз,bg,in_expansion,Берлин,violeta.todorovaaa@gmail.com
+САЩ,Съединени Американски Щати,bg,out_expansion,Берлин,violeta.todorovaaa@gmail.com
+СК,спортен клуб,bg,out_expansion,Берлин,violeta.todorovaaa@gmail.com
+СССР,Съюз на съветските социалистически републики,bg,out_expansion,Берлин,violeta.todorovaaa@gmail.com
+ФК,Футболен клуб,bg,out_expansion,Берлин,violeta.todorovaaa@gmail.com
+ЮНЕСКО,"Организация на Обединените нации по въпросите на образованието, науката и културата",bg,out_expansion,Берлин,violeta.todorovaaa@gmail.com
+г.,година,bg,out_expansion,Берлин,violeta.todorovaaa@gmail.com
+млрд.,милиард,bg,out_expansion,Берлин,violeta.todorovaaa@gmail.com
+пр.н.е.,преди новата ера,bg,out_expansion,Берлин,violeta.todorovaaa@gmail.com
+BBC,British Broadcasting Corporation,en,out_expansion,Би_Би_Си,georgitidorov4508@gmail.com
+БАН,Българска академия на науките,bg,out_expansion,Би_Би_Си,georgitidorov4508@gmail.com
+акад.,академик,bg,out_expansion,Би_Би_Си,georgitidorov4508@gmail.com
+г.,година,bg,out_expansion,Би_Би_Си,georgitidorov4508@gmail.com
+др.,други,bg,out_expansion,Би_Би_Си,georgitidorov4508@gmail.com
+BBC,British Broadcasting Corporation,en,out_expansion,Би_Би_Си,petya.stoyanovaaaa@gmail.com
+БАН,Българска академия на науките,bg,out_expansion,Би_Би_Си,petya.stoyanovaaaa@gmail.com
+г.,година,bg,out_expansion,Би_Би_Си,petya.stoyanovaaaa@gmail.com
+BBC,British Broadcasting Corporation,en,out_expansion,Би_Ти_Ви,dsgeorgiev90@yahoo.com
+HD,High Definition,en,out_expansion,Би_Ти_Ви,dsgeorgiev90@yahoo.com
+IPTV,Internet Protocol television,en,out_expansion,Би_Ти_Ви,dsgeorgiev90@yahoo.com
+MUX,Multiplexer,en,out_expansion,Би_Ти_Ви,dsgeorgiev90@yahoo.com
+SD,Standard definition,en,out_expansion,Би_Ти_Ви,dsgeorgiev90@yahoo.com
+АД,Акционерно дружество,bg,out_expansion,Би_Ти_Ви,dsgeorgiev90@yahoo.com
+ДКД,Държавната комисия по далекосъобщения,bg,in_expansion,Би_Ти_Ви,dsgeorgiev90@yahoo.com
+ЕАД,Еднолично акционерно дружество,bg,out_expansion,Би_Ти_Ви,dsgeorgiev90@yahoo.com
+КРС,Комисия по регулиране на съобщенията,bg,in_expansion,Би_Ти_Ви,dsgeorgiev90@yahoo.com
+МС,Министерски съвет,bg,out_expansion,Би_Ти_Ви,dsgeorgiev90@yahoo.com
+НДК,Национален дворец на културата,bg,out_expansion,Би_Ти_Ви,dsgeorgiev90@yahoo.com
+ООД,Дружество с ограничена отговорност,bg,out_expansion,Би_Ти_Ви,dsgeorgiev90@yahoo.com
+ПТС,Подвижна телевизионна станция,bg,out_expansion,Би_Ти_Ви,dsgeorgiev90@yahoo.com
+СЕМ,Съветът за електронни медии,bg,in_expansion,Би_Ти_Ви,dsgeorgiev90@yahoo.com
+СМЕ,Central European Media Enterprises,en,in_expansion,Би_Ти_Ви,dsgeorgiev90@yahoo.com
+УЕФА,Съюзът на европейските футболни асоциации,bg,out_expansion,Би_Ти_Ви,dsgeorgiev90@yahoo.com
+ал.,алинея,bg,out_expansion,Би_Ти_Ви,dsgeorgiev90@yahoo.com
+г.,година,bg,out_expansion,Би_Ти_Ви,dsgeorgiev90@yahoo.com
+т.,точка,bg,out_expansion,Би_Ти_Ви,dsgeorgiev90@yahoo.com
+чл.,член,bg,out_expansion,Би_Ти_Ви,dsgeorgiev90@yahoo.com
+BBC,British Broadcasting Corporation,en,out_expansion,Би_Ти_Ви,violeta.todorovaaa@gmail.com
+HD,High Definition,en,out_expansion,Би_Ти_Ви,violeta.todorovaaa@gmail.com
+IPTV,Internet Protocol television,en,out_expansion,Би_Ти_Ви,violeta.todorovaaa@gmail.com
+MUX,Multiplexer,en,out_expansion,Би_Ти_Ви,violeta.todorovaaa@gmail.com
+SD,Standard definition,en,out_expansion,Би_Ти_Ви,violeta.todorovaaa@gmail.com
+АД,Акционерно дружество,bg,out_expansion,Би_Ти_Ви,violeta.todorovaaa@gmail.com
+ДКД,Държавната комисия по далекосъобщения,bg,in_expansion,Би_Ти_Ви,violeta.todorovaaa@gmail.com
+ЕАД,Еднолично акционерно дружество,bg,out_expansion,Би_Ти_Ви,violeta.todorovaaa@gmail.com
+КРС,Комисия по регулиране на съобщенията,bg,in_expansion,Би_Ти_Ви,violeta.todorovaaa@gmail.com
+МС,Министерски съвет,bg,out_expansion,Би_Ти_Ви,violeta.todorovaaa@gmail.com
+НДК,Национален дворец на културата,bg,out_expansion,Би_Ти_Ви,violeta.todorovaaa@gmail.com
+ООД,Дружество с ограничена отговорност,bg,out_expansion,Би_Ти_Ви,violeta.todorovaaa@gmail.com
+ПТС,Подвижна телевизионна станция,bg,out_expansion,Би_Ти_Ви,violeta.todorovaaa@gmail.com
+СЕМ,Съветът за електронни медии,bg,in_expansion,Би_Ти_Ви,violeta.todorovaaa@gmail.com
+СМЕ,Central European Media Enterprises,en,in_expansion,Би_Ти_Ви,violeta.todorovaaa@gmail.com
+УЕФА,Съюзът на европейските футболни асоциации,bg,out_expansion,Би_Ти_Ви,violeta.todorovaaa@gmail.com
+ал.,алинея,bg,out_expansion,Би_Ти_Ви,violeta.todorovaaa@gmail.com
+г.,година,bg,out_expansion,Би_Ти_Ви,violeta.todorovaaa@gmail.com
+т.,точка,bg,out_expansion,Би_Ти_Ви,violeta.todorovaaa@gmail.com
+чл.,член,bg,out_expansion,Би_Ти_Ви,violeta.todorovaaa@gmail.com
+DVB-T,Digital Video Broadcasting - Terrestrial,en,out_expansion,БНТ_1,dsgeorgiev90@yahoo.com
+HD,High Definition,en,out_expansion,БНТ_1,dsgeorgiev90@yahoo.com
+БНТ,Българската национална телевизия,bg,out_expansion,БНТ_1,dsgeorgiev90@yahoo.com
+г.,година,bg,out_expansion,БНТ_1,dsgeorgiev90@yahoo.com
+DVB-T,Digital Video Broadcasting - Terrestrial,en,out_expansion,БНТ_1,violeta.todorovaaa@gmail.com
+HD,High Definition,en,out_expansion,БНТ_1,violeta.todorovaaa@gmail.com
+БНТ,Българската национална телевизия,bg,out_expansion,БНТ_1,violeta.todorovaaa@gmail.com
+г.,година,bg,out_expansion,БНТ_1,violeta.todorovaaa@gmail.com
+БНТ,Българската национална телевизия,bg,in_expansion,БНТ_2,dsgeorgiev90@yahoo.com
+РТВЦ,Регионален телевизионен център,bg,out_expansion,БНТ_2,dsgeorgiev90@yahoo.com
+г.,година,bg,out_expansion,БНТ_2,dsgeorgiev90@yahoo.com
+ч.,часа,bg,out_expansion,БНТ_2,dsgeorgiev90@yahoo.com
+БНТ,Българската национална телевизия,bg,in_expansion,БНТ_2,violeta.todorovaaa@gmail.com
+РТВЦ,Регионален телевизионен център,bg,out_expansion,БНТ_2,violeta.todorovaaa@gmail.com
+г.,година,bg,out_expansion,БНТ_2,violeta.todorovaaa@gmail.com
+ч.,часа,bg,out_expansion,БНТ_2,violeta.todorovaaa@gmail.com
+kg,kilogram,en,out_expansion,Бобслей,contact@iliyasgeorgiev.com
+САЩ,Съединени Американски Щати,bg,out_expansion,Бобслей,contact@iliyasgeorgiev.com
+г.,година,bg,out_expansion,Бобслей,contact@iliyasgeorgiev.com
+кг,килограм,bg,out_expansion,Бобслей,contact@iliyasgeorgiev.com
+FIBT,Fédération internationale de bobsleigh et de tobogganing,en,in_expansion,Бобслей,violeta.todorovaaa@gmail.com
+kg,kilogram,en,out_expansion,Бобслей,violeta.todorovaaa@gmail.com
+САЩ,Съединени Американски Щати,bg,out_expansion,Бобслей,violeta.todorovaaa@gmail.com
+г.,година,bg,out_expansion,Бобслей,violeta.todorovaaa@gmail.com
+кг,килограм,bg,out_expansion,Бобслей,violeta.todorovaaa@gmail.com
+кг.,килограм,bg,out_expansion,Бобслей,violeta.todorovaaa@gmail.com
+др.,други,bg,out_expansion,Ботаника,dsgeorgiev90@yahoo.com
+ДНК,Дезоксирибонуклеинова киселина,bg,out_expansion,Ботаника,violeta.todorovaaa@gmail.com
+БКП,Българска Комунистическа Партия,bg,out_expansion,Българска_народна_банка,stella.vouteva@gmail.com
+БНБ,Българската народна банка,bg,in_expansion,Българска_народна_банка,stella.vouteva@gmail.com
+ДЦК,Държавни Ценни Книжа,bg,out_expansion,Българска_народна_банка,stella.vouteva@gmail.com
+ЛЕОНИА Плюс,LEv OverNight Index Average Plus,en,out_expansion,Българска_народна_банка,stella.vouteva@gmail.com
+ОЛП,Основен лихвен процент,bg,out_expansion,Българска_народна_банка,stella.vouteva@gmail.com
+бр.,брой,bg,out_expansion,Българска_народна_банка,stella.vouteva@gmail.com
+г.,година,other language,out_expansion,Българска_народна_банка,stella.vouteva@gmail.com
+чл.,член,bg,out_expansion,Българска_народна_банка,stella.vouteva@gmail.com
+БКП,Българска Комунистическа Партия,bg,out_expansion,Българска_народна_банка,violeta.todorovaaa@gmail.com
+БНБ,Българската народна банка,bg,in_expansion,Българска_народна_банка,violeta.todorovaaa@gmail.com
+ЛЕОНИА Плюс,LEv OverNight Index Average Plus,bg,out_expansion,Българска_народна_банка,violeta.todorovaaa@gmail.com
+ОЛП,Основен лихвен процент,bg,out_expansion,Българска_народна_банка,violeta.todorovaaa@gmail.com
+бр.,брой,bg,out_expansion,Българска_народна_банка,violeta.todorovaaa@gmail.com
+г.,година,bg,out_expansion,Българска_народна_банка,violeta.todorovaaa@gmail.com
+чл.,член,bg,out_expansion,Българска_народна_банка,violeta.todorovaaa@gmail.com
+БЗНС,Български земеделски народен съюз,bg,out_expansion,Българска_социалистическа_партия,dsgeorgiev90@yahoo.com
+БКП,Българската комунистическа партия,bg,out_expansion,Българска_социалистическа_партия,dsgeorgiev90@yahoo.com
+БСП,Българската социалистическа партия,bg,in_expansion,Българска_социалистическа_партия,dsgeorgiev90@yahoo.com
+ВС,Върховен съд,bg,out_expansion,Българска_социалистическа_партия,dsgeorgiev90@yahoo.com
+ГЕРБ,Граждани за европейско развитие на България,bg,out_expansion,Българска_социалистическа_партия,dsgeorgiev90@yahoo.com
+ДПС,Движение за права и свободи,bg,out_expansion,Българска_социалистическа_партия,dsgeorgiev90@yahoo.com
+НДСВ,Национално движение за стабилност и възход,bg,out_expansion,Българска_социалистическа_партия,dsgeorgiev90@yahoo.com
+ОДС,Обединени демократични сили,bg,out_expansion,Българска_социалистическа_партия,dsgeorgiev90@yahoo.com
+ОНС,Обикновено народно събрание,bg,out_expansion,Българска_социалистическа_партия,dsgeorgiev90@yahoo.com
+ПЕС,Платформа Европейски социалисти,bg,in_expansion,Българска_социалистическа_партия,dsgeorgiev90@yahoo.com
+ПК,Политически клуб,bg,out_expansion,Българска_социалистическа_партия,dsgeorgiev90@yahoo.com
+СДС,Съюз на демократичните сили,bg,out_expansion,Българска_социалистическа_партия,dsgeorgiev90@yahoo.com
+г.,година,bg,out_expansion,Българска_социалистическа_партия,dsgeorgiev90@yahoo.com
+БЗНС,Български земеделски народен съюз,bg,out_expansion,Българска_социалистическа_партия,violeta.todorovaaa@gmail.com
+БКП,Българската комунистическа партия,bg,in_expansion,Българска_социалистическа_партия,violeta.todorovaaa@gmail.com
+БСДП,Българската социалдемократическа партия,bg,out_expansion,Българска_социалистическа_партия,violeta.todorovaaa@gmail.com
+БСП,Българската социалистическа партия,bg,in_expansion,Българска_социалистическа_партия,violeta.todorovaaa@gmail.com
+ВС,Върховен съд,bg,out_expansion,Българска_социалистическа_партия,violeta.todorovaaa@gmail.com
+ГЕРБ,Граждани за европейско развитие на България,bg,out_expansion,Българска_социалистическа_партия,violeta.todorovaaa@gmail.com
+ДПС,Движение за права и свободи,bg,out_expansion,Българска_социалистическа_партия,violeta.todorovaaa@gmail.com
+НДСВ,Национално движение за стабилност и възход,bg,out_expansion,Българска_социалистическа_партия,violeta.todorovaaa@gmail.com
+ОДС,Обединени демократични сили,bg,out_expansion,Българска_социалистическа_партия,violeta.todorovaaa@gmail.com
+ОНС,Обикновено народно събрание,bg,out_expansion,Българска_социалистическа_партия,violeta.todorovaaa@gmail.com
+ПЕС,Платформа Европейски социалисти,bg,in_expansion,Българска_социалистическа_партия,violeta.todorovaaa@gmail.com
+ПК,Политически клуб,bg,out_expansion,Българска_социалистическа_партия,violeta.todorovaaa@gmail.com
+СДС,Съюз на демократичните сили,bg,out_expansion,Българска_социалистическа_партия,violeta.todorovaaa@gmail.com
+г.,година,bg,out_expansion,Българска_социалистическа_партия,violeta.todorovaaa@gmail.com
+ген.,генерал,bg,out_expansion,Българска_социалистическа_партия,violeta.todorovaaa@gmail.com
+БРЦК,Българския революционен централен комитет,bg,in_expansion,Васил_Левски,dsgeorgiev90@yahoo.com
+ВРО,Вътрешната революционна организация,bg,in_expansion,Васил_Левски,dsgeorgiev90@yahoo.com
+ал.,алинея,bg,out_expansion,Васил_Левски,dsgeorgiev90@yahoo.com
+г.,година,bg,out_expansion,Васил_Левски,dsgeorgiev90@yahoo.com
+гр.,град,bg,out_expansion,Васил_Левски,dsgeorgiev90@yahoo.com
+др.,други,bg,out_expansion,Васил_Левски,dsgeorgiev90@yahoo.com
+проф.,професор,bg,out_expansion,Васил_Левски,dsgeorgiev90@yahoo.com
+с.,село,bg,out_expansion,Васил_Левски,dsgeorgiev90@yahoo.com
+чл.,член,bg,out_expansion,Васил_Левски,dsgeorgiev90@yahoo.com
+БРЦК,Българския революционен централен комитет,bg,in_expansion,Васил_Левски,stella.vouteva@gmail.com
+ВРО,Вътрешната революционна организация,bg,in_expansion,Васил_Левски,stella.vouteva@gmail.com
+ал.,алинея,bg,out_expansion,Васил_Левски,stella.vouteva@gmail.com
+г.,година,bg,out_expansion,Васил_Левски,stella.vouteva@gmail.com
+гр.,град,bg,out_expansion,Васил_Левски,stella.vouteva@gmail.com
+др.,други,bg,out_expansion,Васил_Левски,stella.vouteva@gmail.com
+отд.,отделение,bg,out_expansion,Васил_Левски,stella.vouteva@gmail.com
+проф.,професор,bg,out_expansion,Васил_Левски,stella.vouteva@gmail.com
+с.,село,bg,out_expansion,Васил_Левски,stella.vouteva@gmail.com
+чл.,член,bg,out_expansion,Васил_Левски,stella.vouteva@gmail.com
+kW,Kilowatt,en,out_expansion,Водноелектрическа_централа,g.yordanov999@gmail.com
+ВЕЦ,Водноелектрическа централа,bg,in_expansion,Водноелектрическа_централа,g.yordanov999@gmail.com
+МW,Megawatt,en,out_expansion,Водноелектрическа_централа,g.yordanov999@gmail.com
+НВРВН,най-високо работно водно ниво,bg,in_expansion,Водноелектрическа_централа,g.yordanov999@gmail.com
+кг,килограма,bg,out_expansion,Водноелектрическа_централа,g.yordanov999@gmail.com
+куб.,кубичен,bg,out_expansion,Водноелектрическа_централа,g.yordanov999@gmail.com
+kW,Kilowatt,en,out_expansion,Водноелектрическа_централа,georgitidorov4508@gmail.com
+ВЕЦ,Водноелектрическа централа,bg,in_expansion,Водноелектрическа_централа,georgitidorov4508@gmail.com
+МW,Megawatt,en,out_expansion,Водноелектрическа_централа,georgitidorov4508@gmail.com
+НВРВН,най-високо работно водно ниво,bg,in_expansion,Водноелектрическа_централа,georgitidorov4508@gmail.com
+кг,килограма,bg,out_expansion,Водноелектрическа_централа,georgitidorov4508@gmail.com
+куб.,кубичен,bg,out_expansion,Водноелектрическа_централа,georgitidorov4508@gmail.com
+CEV,Европейската конфедерация по волейбол,en,in_expansion,Волейбол,stella.vouteva@gmail.com
+FIVB,Международната федерация по волейбол,en,in_expansion,Волейбол,stella.vouteva@gmail.com
+БНСФ,Българска национална спортна федерация,bg,in_expansion,Волейбол,stella.vouteva@gmail.com
+КИРВ,Комитет за игрите с ръчна топка,bg,in_expansion,Волейбол,stella.vouteva@gmail.com
+МОК,Международния олимпийски комитет,bg,in_expansion,Волейбол,stella.vouteva@gmail.com
+РСВ,Републиканска секция по волейбол,bg,in_expansion,Волейбол,stella.vouteva@gmail.com
+САЩ,Съединени Американски Щати,bg,in_expansion,Волейбол,stella.vouteva@gmail.com
+СИРТ,Съюз за игрите с ръчна топка,bg,in_expansion,Волейбол,stella.vouteva@gmail.com
+ФИВБ,Международната федерация по волейбол,bg,out_expansion,Волейбол,stella.vouteva@gmail.com
+т.нар.,така наречен,bg,out_expansion,Волейбол,stella.vouteva@gmail.com
+CEV,Европейската конфедерация по волейбол,bg,in_expansion,Волейбол,violeta.todorovaaa@gmail.com
+FIVB,Международната федерация по волейбол,bg,in_expansion,Волейбол,violeta.todorovaaa@gmail.com
+cm,centimeter,en,out_expansion,Волейбол,violeta.todorovaaa@gmail.com
+m,meter,en,out_expansion,Волейбол,violeta.todorovaaa@gmail.com
+АС-23,Атлетик Слава 23,bg,out_expansion,Волейбол,violeta.todorovaaa@gmail.com
+БНСФ,Българска национална спортна федерация,bg,in_expansion,Волейбол,violeta.todorovaaa@gmail.com
+КИРВ,Комитет за игрите с ръчна топка,bg,in_expansion,Волейбол,violeta.todorovaaa@gmail.com
+МОК,Международния олимпийски комитет,bg,in_expansion,Волейбол,violeta.todorovaaa@gmail.com
+РСВ,Републиканска секция по волейбол,bg,in_expansion,Волейбол,violeta.todorovaaa@gmail.com
+САЩ,Съединени Американски Щати,bg,out_expansion,Волейбол,violeta.todorovaaa@gmail.com
+СИРТ,Съюз за игрите с ръчна топка,bg,in_expansion,Волейбол,violeta.todorovaaa@gmail.com
+ФИВБ,Международната федерация по волейбол,bg,out_expansion,Волейбол,violeta.todorovaaa@gmail.com
+г.,година,bg,out_expansion,Волейбол,violeta.todorovaaa@gmail.com
+дн.,днес,bg,out_expansion,Волейбол,violeta.todorovaaa@gmail.com
+др.,други,bg,out_expansion,Волейбол,violeta.todorovaaa@gmail.com
+т.е.,тоест,bg,out_expansion,Волейбол,violeta.todorovaaa@gmail.com
+т.нар.,така наречен,bg,out_expansion,Волейбол,violeta.todorovaaa@gmail.com
+ВРУ,Временно руско управление,bg,in_expansion,Временно_руско_управление,dsgeorgiev90@yahoo.com
+г.,година,bg,out_expansion,Временно_руско_управление,dsgeorgiev90@yahoo.com
+с.г.,същата година,bg,out_expansion,Временно_руско_управление,dsgeorgiev90@yahoo.com
+ВРУ,Временно руско управление,bg,in_expansion,Временно_руско_управление,stella.vouteva@gmail.com
+г.,година,bg,out_expansion,Временно_руско_управление,stella.vouteva@gmail.com
+IBM,International Business Machines,en,out_expansion,Гъвкав_магнитен_диск,g.yordanov999@gmail.com
+KB,kilobytes,en,out_expansion,Гъвкав_магнитен_диск,g.yordanov999@gmail.com
+MB,megabytes,en,out_expansion,Гъвкав_магнитен_диск,g.yordanov999@gmail.com
+TPI,tracks-per-inch,en,in_expansion,Гъвкав_магнитен_диск,g.yordanov999@gmail.com
+boPET,biaxially-oriented polyethylene terephthalate,en,in_expansion,Гъвкав_магнитен_диск,g.yordanov999@gmail.com
+mm,millimeter,en,out_expansion,Гъвкав_магнитен_диск,g.yordanov999@gmail.com
+ФДУ,флопи-дисково устройство,bg,in_expansion,Гъвкав_магнитен_диск,g.yordanov999@gmail.com
+г.,година,bg,out_expansion,Гъвкав_магнитен_диск,g.yordanov999@gmail.com
+IBM,International Business Machines,en,out_expansion,Гъвкав_магнитен_диск,petya.stoyanovaaaa@gmail.com
+KB,kilobytes,en,out_expansion,Гъвкав_магнитен_диск,petya.stoyanovaaaa@gmail.com
+MB,megabytes,en,out_expansion,Гъвкав_магнитен_диск,petya.stoyanovaaaa@gmail.com
+TPI,tracks-per-inch,en,in_expansion,Гъвкав_магнитен_диск,petya.stoyanovaaaa@gmail.com
+boPET,biaxially-oriented polyethylene terephthalate,en,out_expansion,Гъвкав_магнитен_диск,petya.stoyanovaaaa@gmail.com
+mm,millimeter,en,out_expansion,Гъвкав_магнитен_диск,petya.stoyanovaaaa@gmail.com
+ФДУ,флопи-дисково устройство,bg,in_expansion,Гъвкав_магнитен_диск,petya.stoyanovaaaa@gmail.com
+г.,година,bg,out_expansion,Гъвкав_магнитен_диск,petya.stoyanovaaaa@gmail.com
+САЩ,Съединените Американски Щати,bg,out_expansion,Дисниленд,dsgeorgiev90@yahoo.com
+г-н,господин,bg,out_expansion,Дисниленд,dsgeorgiev90@yahoo.com
+г.,година,other language,out_expansion,Дисниленд,dsgeorgiev90@yahoo.com
+хил.,хиляди,bg,out_expansion,Дисниленд,dsgeorgiev90@yahoo.com
+г.,година,bg,out_expansion,Дисниленд,georgitidorov4508@gmail.com
+хил.,хиляди,en,out_expansion,Дисниленд,georgitidorov4508@gmail.com
+FTDI,Future Technology Devices International,en,out_expansion,Драйвер,g.yordanov999@gmail.com
+UART,Universal asynchronous receiver-transmitter,en,out_expansion,Драйвер,g.yordanov999@gmail.com
+USB,Universal Serial Bus,en,out_expansion,Драйвер,g.yordanov999@gmail.com
+WDF,Windows Driver Foundation,en,in_expansion,Драйвер,g.yordanov999@gmail.com
+FTDI,Future Technology Devices International,en,out_expansion,Драйвер,petya.stoyanovaaaa@gmail.com
+I/O,Input/Оutput,en,out_expansion,Драйвер,petya.stoyanovaaaa@gmail.com
+OS,Operating system,en,out_expansion,Драйвер,petya.stoyanovaaaa@gmail.com
+UART,Universal asynchronous receiver-transmitter,en,out_expansion,Драйвер,petya.stoyanovaaaa@gmail.com
+USB,Universal Serial Bus,en,out_expansion,Драйвер,petya.stoyanovaaaa@gmail.com
+WDF,Windows Driver Foundation,other language,in_expansion,Драйвер,petya.stoyanovaaaa@gmail.com
+г.,година,bg,out_expansion,Дуги_оток,petya.stoyanovaaaa@gmail.com
+км,километър,bg,out_expansion,Дуги_оток,petya.stoyanovaaaa@gmail.com
+км²,квадратен километър,bg,out_expansion,Дуги_оток,petya.stoyanovaaaa@gmail.com
+м,метър,bg,out_expansion,Дуги_оток,petya.stoyanovaaaa@gmail.com
+пр.н.е.,преди новата ера,bg,out_expansion,Дуги_оток,petya.stoyanovaaaa@gmail.com
+г.,година,bg,out_expansion,Дуги_оток,violeta.todorovaaa@gmail.com
+км,километър,bg,out_expansion,Дуги_оток,violeta.todorovaaa@gmail.com
+км²,квадратен километър,bg,out_expansion,Дуги_оток,violeta.todorovaaa@gmail.com
+м,метър,bg,out_expansion,Дуги_оток,violeta.todorovaaa@gmail.com
+пр.н.е.,преди новата ера,bg,out_expansion,Дуги_оток,violeta.todorovaaa@gmail.com
+ДВ,Държавен вестник,bg,in_expansion,Държавен_вестник,g.yordanov999@gmail.com
+г.,година,bg,out_expansion,Държавен_вестник,g.yordanov999@gmail.com
+др.,други,bg,out_expansion,Държавен_вестник,g.yordanov999@gmail.com
+млн.,милиона,bg,out_expansion,Държавен_вестник,g.yordanov999@gmail.com
+ДВ,Държавен вестник,bg,in_expansion,Държавен_вестник,violeta.todorovaaa@gmail.com
+г.,година,bg,out_expansion,Държавен_вестник,violeta.todorovaaa@gmail.com
+др.,други,bg,out_expansion,Държавен_вестник,violeta.todorovaaa@gmail.com
+млн.,милиона,bg,out_expansion,Държавен_вестник,violeta.todorovaaa@gmail.com
+БЗНС,Български земеделски народен съюз,bg,out_expansion,Държавен_съвет_на_Народна_република_България,dsgeorgiev90@yahoo.com
+БКП,Българска комунистическа партия,bg,out_expansion,Държавен_съвет_на_Народна_република_България,dsgeorgiev90@yahoo.com
+НРБ,Народна Република България,bg,out_expansion,Държавен_съвет_на_Народна_република_България,dsgeorgiev90@yahoo.com
+НС,Народно Събрание,bg,out_expansion,Държавен_съвет_на_Народна_република_България,dsgeorgiev90@yahoo.com
+ЦК,Централен комитет,bg,out_expansion,Държавен_съвет_на_Народна_република_България,dsgeorgiev90@yahoo.com
+г.,година,bg,out_expansion,Държавен_съвет_на_Народна_република_България,dsgeorgiev90@yahoo.com
+чл.,член,bg,out_expansion,Държавен_съвет_на_Народна_република_България,dsgeorgiev90@yahoo.com
+БЗНС,Български земеделски народен съюз,bg,out_expansion,Държавен_съвет_на_Народна_република_България,stella.vouteva@gmail.com
+БКП,Българска комунистическа партия,bg,out_expansion,Държавен_съвет_на_Народна_република_България,stella.vouteva@gmail.com
+НРБ,Народна Република България,bg,in_expansion,Държавен_съвет_на_Народна_република_България,stella.vouteva@gmail.com
+НС,Народно Събрание,bg,out_expansion,Държавен_съвет_на_Народна_република_България,stella.vouteva@gmail.com
+ЦК,Централен комитет,bg,out_expansion,Държавен_съвет_на_Народна_република_България,stella.vouteva@gmail.com
+вкл.,включително,bg,out_expansion,Държавен_съвет_на_Народна_република_България,stella.vouteva@gmail.com
+г.,година,bg,out_expansion,Държавен_съвет_на_Народна_република_България,stella.vouteva@gmail.com
+зам.,заместник,bg,out_expansion,Държавен_съвет_на_Народна_република_България,stella.vouteva@gmail.com
+чл.,член,bg,out_expansion,Държавен_съвет_на_Народна_република_България,stella.vouteva@gmail.com
+ЕНМ,единния надзорен механизъм,bg,in_expansion,Европейска_централна_банка,dsgeorgiev90@yahoo.com
+ЕПИ,Европейския паричен институт,bg,in_expansion,Европейска_централна_банка,dsgeorgiev90@yahoo.com
+ЕС,Европейския съюз,bg,in_expansion,Европейска_централна_банка,dsgeorgiev90@yahoo.com
+ЕСЦБ,Европейската система на централните банки,bg,in_expansion,Европейска_централна_банка,dsgeorgiev90@yahoo.com
+ЕФФС,Европейския фонд за финансова стабилност,bg,in_expansion,Европейска_централна_банка,dsgeorgiev90@yahoo.com
+ЕЦБ,Европейската централна банка,bg,in_expansion,Европейска_централна_банка,dsgeorgiev90@yahoo.com
+НКО,националните компетентни органи,bg,in_expansion,Европейска_централна_банка,dsgeorgiev90@yahoo.com
+НЦБ,националните централни банки,bg,in_expansion,Европейска_централна_банка,dsgeorgiev90@yahoo.com
+г.,година,bg,out_expansion,Европейска_централна_банка,dsgeorgiev90@yahoo.com
+ЕНМ,единния надзорен механизъм,bg,in_expansion,Европейска_централна_банка,petya.stoyanovaaaa@gmail.com
+ЕПИ,Европейския паричен институт,bg,in_expansion,Европейска_централна_банка,petya.stoyanovaaaa@gmail.com
+ЕС,Европейския съюз,bg,in_expansion,Европейска_централна_банка,petya.stoyanovaaaa@gmail.com
+ЕСЦБ,Европейската система на централните банки,bg,in_expansion,Европейска_централна_банка,petya.stoyanovaaaa@gmail.com
+ЕФФС,Европейския фонд за финансова стабилност,bg,out_expansion,Европейска_централна_банка,petya.stoyanovaaaa@gmail.com
+ЕЦБ,Европейската централна банка,bg,in_expansion,Европейска_централна_банка,petya.stoyanovaaaa@gmail.com
+НКО,националните компетентни органи,bg,in_expansion,Европейска_централна_банка,petya.stoyanovaaaa@gmail.com
+НЦБ,националните централни банки,bg,in_expansion,Европейска_централна_банка,petya.stoyanovaaaa@gmail.com
+г.,година,bg,out_expansion,Европейска_централна_банка,petya.stoyanovaaaa@gmail.com
+т.н.,така нататък,bg,out_expansion,Европейска_централна_банка,petya.stoyanovaaaa@gmail.com
+г.,година,bg,out_expansion,Железният_човек,georgitidorov4508@gmail.com
+г.,година,bg,out_expansion,Железният_човек,petya.stoyanovaaaa@gmail.com
+БЗНС,Българския земеделски народен съюз,bg,in_expansion,Закон_за_трудовата_поземлена_собственост,g.yordanov999@gmail.com
+ЗТПС,Закон за трудовата поземлена собственост,bg,out_expansion,Закон_за_трудовата_поземлена_собственост,g.yordanov999@gmail.com
+ТКЗС,Трудово-кооперативни земеделски стопанства,bg,in_expansion,Закон_за_трудовата_поземлена_собственост,g.yordanov999@gmail.com
+БЗНС,Българския земеделски народен съюз,bg,in_expansion,Закон_за_трудовата_поземлена_собственост,georgitidorov4508@gmail.com
+ЗТПС,Закон за трудовата поземлена собственост,bg,out_expansion,Закон_за_трудовата_поземлена_собственост,georgitidorov4508@gmail.com
+ТКЗС,Трудово-кооперативни земеделски стопанства,bg,in_expansion,Закон_за_трудовата_поземлена_собственост,georgitidorov4508@gmail.com
+HFPA,Hollywood Foreign Press Association,en,out_expansion,Златен_глобус,georgitidorov4508@gmail.com
+САЩ,Съединени Американски Щати,bg,out_expansion,Златен_глобус,georgitidorov4508@gmail.com
+HFPA,Hollywood Foreign Press Association,en,out_expansion,Златен_глобус,petya.stoyanovaaaa@gmail.com
+САЩ,Съединени Американски Щати,bg,out_expansion,Златен_глобус,petya.stoyanovaaaa@gmail.com
+BBC,British Broadcasting Corporation,en,out_expansion,Иван_Славков,dsgeorgiev90@yahoo.com
+АЕНОК,Асамблеята на националните олимпийски комитети,bg,in_expansion,Иван_Славков,dsgeorgiev90@yahoo.com
+БОК,Българския олимпийски комитет,bg,in_expansion,Иван_Славков,dsgeorgiev90@yahoo.com
+БФС,Българския футболен съюз,bg,in_expansion,Иван_Славков,dsgeorgiev90@yahoo.com
+ВМЕИ,Висш машинно-електротехнически институт,bg,out_expansion,Иван_Славков,dsgeorgiev90@yahoo.com
+ДС,Държавна сигурност,bg,out_expansion,Иван_Славков,dsgeorgiev90@yahoo.com
+МОК,Международния олимпийски комитет,bg,in_expansion,Иван_Славков,dsgeorgiev90@yahoo.com
+ПФК,Професионален футболен клуб,bg,out_expansion,Иван_Славков,dsgeorgiev90@yahoo.com
+ТАБСО,Транспортно-авиационно българо-съветско общество,bg,out_expansion,Иван_Славков,dsgeorgiev90@yahoo.com
+ФИФА,Международна футболна федерация,bg,out_expansion,Иван_Славков,dsgeorgiev90@yahoo.com
+ЦСКА,Централен спортен клуб на армията,bg,out_expansion,Иван_Славков,dsgeorgiev90@yahoo.com
+г.,година,bg,out_expansion,Иван_Славков,dsgeorgiev90@yahoo.com
+ч.,часа,bg,out_expansion,Иван_Славков,dsgeorgiev90@yahoo.com
+BBC,British Broadcasting Corporation,en,out_expansion,Иван_Славков,g.yordanov999@gmail.com
+АЕНОК,Асамблеята на националните олимпийски комитети,bg,in_expansion,Иван_Славков,g.yordanov999@gmail.com
+БОК,Българския олимпийски комитет,bg,in_expansion,Иван_Славков,g.yordanov999@gmail.com
+БФС,Българския футболен съюз,bg,in_expansion,Иван_Славков,g.yordanov999@gmail.com
+ВМЕИ,Висш машинно-електротехнически институт,bg,out_expansion,Иван_Славков,g.yordanov999@gmail.com
+ДС,Държавна сигурност,bg,out_expansion,Иван_Славков,g.yordanov999@gmail.com
+МОК,Международния олимпийски комитет,bg,in_expansion,Иван_Славков,g.yordanov999@gmail.com
+ПФК,Професионален футболен клуб,bg,out_expansion,Иван_Славков,g.yordanov999@gmail.com
+ТАБСО,Транспортно-авиационно българо-съветско общество,bg,out_expansion,Иван_Славков,g.yordanov999@gmail.com
+ФИФА,Международна футболна федерация,bg,out_expansion,Иван_Славков,g.yordanov999@gmail.com
+ЦСКА,Централен спортен клуб на армията,bg,out_expansion,Иван_Славков,g.yordanov999@gmail.com
+г.,година,bg,out_expansion,Иван_Славков,g.yordanov999@gmail.com
+CD-ROM,Compact Disc Read-Only Memory,en,out_expansion,Изобразително_изкуство,dsgeorgiev90@yahoo.com
+DVD,Digital Video Disk,en,out_expansion,Изобразително_изкуство,dsgeorgiev90@yahoo.com
+Хр.,Христа,bg,out_expansion,Изобразително_изкуство,dsgeorgiev90@yahoo.com
+в.,век,bg,out_expansion,Изобразително_изкуство,dsgeorgiev90@yahoo.com
+г.,година,bg,out_expansion,Изобразително_изкуство,dsgeorgiev90@yahoo.com
+др.,други,bg,out_expansion,Изобразително_изкуство,dsgeorgiev90@yahoo.com
+пр.,преди,bg,out_expansion,Изобразително_изкуство,dsgeorgiev90@yahoo.com
+3-D,three-dimensional,en,out_expansion,Изобразително_изкуство,georgitidorov4508@gmail.com
+CD-ROM,Compact Disc Read-Only Memory,en,out_expansion,Изобразително_изкуство,georgitidorov4508@gmail.com
+DVD,Digital Video Disk,en,out_expansion,Изобразително_изкуство,georgitidorov4508@gmail.com
+в.,век,bg,out_expansion,Изобразително_изкуство,georgitidorov4508@gmail.com
+г.,година,bg,out_expansion,Изобразително_изкуство,georgitidorov4508@gmail.com
+пр. Хр.,преди Христа,bg,out_expansion,Изобразително_изкуство,georgitidorov4508@gmail.com
+AG,Aktiengesellschaft,en,out_expansion,Интегрална_схема,georgitidorov4508@gmail.com
+ASIC,application-specific integrated circuit,en,out_expansion,Интегрална_схема,georgitidorov4508@gmail.com
+CMOS,Complementary metal–oxide–semiconductor,en,out_expansion,Интегрална_схема,georgitidorov4508@gmail.com
+DSP,Digital Signal Processor,en,in_expansion,Интегрална_схема,georgitidorov4508@gmail.com
+FPGA,Field Programmable Gate Arrays,en,in_expansion,Интегрална_схема,georgitidorov4508@gmail.com
+RAM,random-access memory,en,out_expansion,Интегрална_схема,georgitidorov4508@gmail.com
+W,Watt,en,out_expansion,Интегрална_схема,georgitidorov4508@gmail.com
+mm,millimeter,en,out_expansion,Интегрална_схема,georgitidorov4508@gmail.com
+µm,micrometer,en,out_expansion,Интегрална_схема,georgitidorov4508@gmail.com
+АЦП,Аналогово-цифров преобразувател,bg,in_expansion,Интегрална_схема,georgitidorov4508@gmail.com
+ИС,Интегрална схема,bg,in_expansion,Интегрална_схема,georgitidorov4508@gmail.com
+САЩ,Съединени Американски Щати,bg,out_expansion,Интегрална_схема,georgitidorov4508@gmail.com
+ЦАП,Цифрово-аналогов преобразувател,bg,in_expansion,Интегрална_схема,georgitidorov4508@gmail.com
+г.,година,bg,out_expansion,Интегрална_схема,georgitidorov4508@gmail.com
+CMOS,Complementary metal–oxide–semiconductor,en,out_expansion,Интегрална_схема,violeta.todorovaaa@gmail.com
+DSP,Digital Signal Processor,en,in_expansion,Интегрална_схема,violeta.todorovaaa@gmail.com
+AG,Aktiengesellschaft,en,out_expansion,Интегрална_схема,violeta.todorovaaa@gmail.com
+ASIC,application-specific integrated circuit,en,out_expansion,Интегрална_схема,violeta.todorovaaa@gmail.com
+FPGA,Field Programmable Gate Arrays,en,in_expansion,Интегрална_схема,violeta.todorovaaa@gmail.com
+RAM,random-access memory,en,out_expansion,Интегрална_схема,violeta.todorovaaa@gmail.com
+W,Watt,en,out_expansion,Интегрална_схема,violeta.todorovaaa@gmail.com
+mm,millimeter,en,out_expansion,Интегрална_схема,violeta.todorovaaa@gmail.com
+µm,micrometer,en,out_expansion,Интегрална_схема,violeta.todorovaaa@gmail.com
+АЦП,Аналогово-цифров преобразувател,bg,in_expansion,Интегрална_схема,violeta.todorovaaa@gmail.com
+ИС,Интегрална схема,bg,in_expansion,Интегрална_схема,violeta.todorovaaa@gmail.com
+САЩ,Съединени Американски Щати,bg,out_expansion,Интегрална_схема,violeta.todorovaaa@gmail.com
+ЦАП,Цифрово-аналогов преобразувател,bg,in_expansion,Интегрална_схема,violeta.todorovaaa@gmail.com
+г.,година,bg,out_expansion,Интегрална_схема,violeta.todorovaaa@gmail.com
+AGP,Accelerated Graphics Port,en,out_expansion,Интел,dsgeorgiev90@yahoo.com
+AMD,Advanced Micro Devices,other language,in_expansion,Интел,dsgeorgiev90@yahoo.com
+DEC,Disasters Emergency Committee,en,out_expansion,Интел,dsgeorgiev90@yahoo.com
+DRAM,Dynamic random-access memory,en,out_expansion,Интел,dsgeorgiev90@yahoo.com
+ENIAC,Electronic Numerical Integrator And Computer,en,out_expansion,Интел,dsgeorgiev90@yahoo.com
+FTC,The Federal Trade Commission,en,out_expansion,Интел,dsgeorgiev90@yahoo.com
+IBM,International Business Machines Corporation,en,out_expansion,Интел,dsgeorgiev90@yahoo.com
+INTC,Intel Corporation Common Stock,en,out_expansion,Интел,dsgeorgiev90@yahoo.com
+MOS,metal oxide semiconductor,en,out_expansion,Интел,dsgeorgiev90@yahoo.com
+MOSFET,metal-oxide-semiconductor field-effect transistor,en,out_expansion,Интел,dsgeorgiev90@yahoo.com
+NASDAQ,National Association of Securities Dealers Automated Quotations,en,out_expansion,Интел,dsgeorgiev90@yahoo.com
+NCM,Nippon Calculating Machine Corporation,en,out_expansion,Интел,dsgeorgiev90@yahoo.com
+PC,Personal Computer,en,out_expansion,Интел,dsgeorgiev90@yahoo.com
+PCI,Peripheral Component Interconnect,en,out_expansion,Интел,dsgeorgiev90@yahoo.com
+ROM,Read-only memory,en,out_expansion,Интел,dsgeorgiev90@yahoo.com
+SRAM,Static Random Access Memory,en,out_expansion,Интел,dsgeorgiev90@yahoo.com
+TTL,Transistor–transistor Logic,en,out_expansion,Интел,dsgeorgiev90@yahoo.com
+USB,Universal Serial Bus,en,out_expansion,Интел,dsgeorgiev90@yahoo.com
+САЩ,Съединени Американски Щати,bg,out_expansion,Интел,dsgeorgiev90@yahoo.com
+г.,година,bg,out_expansion,Интел,dsgeorgiev90@yahoo.com
+AGP,Accelerated Graphics Port,en,out_expansion,Интел,georgitidorov4508@gmail.com
+AMD,Advanced Micro Devices,en,in_expansion,Интел,georgitidorov4508@gmail.com
+DEC,Disasters Emergency Committee,en,out_expansion,Интел,georgitidorov4508@gmail.com
+DRAM,Dynamic random-access memory,en,out_expansion,Интел,georgitidorov4508@gmail.com
+ENIAC,Electronic Numerical Integrator And Computer,en,out_expansion,Интел,georgitidorov4508@gmail.com
+FTC,The Federal Trade Commission,en,in_expansion,Интел,georgitidorov4508@gmail.com
+IBM,International Business Machines Corporation,en,out_expansion,Интел,georgitidorov4508@gmail.com
+NASDAQ,National Association of Securities Dealers Automated Quotations,en,out_expansion,Интел,georgitidorov4508@gmail.com
+NCM,Nippon Calculating Machine Corporation,other language,in_expansion,Интел,georgitidorov4508@gmail.com
+PC,Personal Computer,en,out_expansion,Интел,georgitidorov4508@gmail.com
+PCI,Peripheral Component Interconnect,en,out_expansion,Интел,georgitidorov4508@gmail.com
+ROM,Read-only memory,en,out_expansion,Интел,georgitidorov4508@gmail.com
+SRAM,Static Random Access Memory,en,out_expansion,Интел,georgitidorov4508@gmail.com
+TTL,Transistor–transistor Logic,en,out_expansion,Интел,georgitidorov4508@gmail.com
+USB,Universal Serial Bus,en,out_expansion,Интел,georgitidorov4508@gmail.com
+САЩ,Съединени Американски Щати,bg,out_expansion,Интел,georgitidorov4508@gmail.com
+г.,година,bg,out_expansion,Интел,georgitidorov4508@gmail.com
+km2,Square kilometer,en,out_expansion,Ирландия,georgitidorov4508@gmail.com
+m,meter,en,out_expansion,Ирландия,georgitidorov4508@gmail.com
+mm,milimeter,en,out_expansion,Ирландия,georgitidorov4508@gmail.com
+°С,Celsius,en,out_expansion,Ирландия,georgitidorov4508@gmail.com
+БВП,Брутен вътрешен продукт,bg,out_expansion,Ирландия,georgitidorov4508@gmail.com
+ЕС,Европейски съюз,bg,out_expansion,Ирландия,georgitidorov4508@gmail.com
+ИРА,Републиканската армия,bg,out_expansion,Ирландия,georgitidorov4508@gmail.com
+ИЧР,Индекс на човешкото развитие,bg,out_expansion,Ирландия,georgitidorov4508@gmail.com
+НАТО,Организацията на Северноатлантическия договор,bg,out_expansion,Ирландия,georgitidorov4508@gmail.com
+ОИСР,Организация за икономическо сътрудничество и развитие,bg,out_expansion,Ирландия,georgitidorov4508@gmail.com
+ООН,Организация на обединените нации,bg,out_expansion,Ирландия,georgitidorov4508@gmail.com
+г.,година,bg,out_expansion,Ирландия,georgitidorov4508@gmail.com
+др.,други,bg,out_expansion,Ирландия,georgitidorov4508@gmail.com
+пр.н.е.,преди новата ера,bg,out_expansion,Ирландия,georgitidorov4508@gmail.com
+km2,Square kilometer,en,out_expansion,Ирландия,petya.stoyanovaaaa@gmail.com
+m,meter,en,out_expansion,Ирландия,petya.stoyanovaaaa@gmail.com
+mm,milimeter,en,out_expansion,Ирландия,petya.stoyanovaaaa@gmail.com
+°С,Celsius,en,out_expansion,Ирландия,petya.stoyanovaaaa@gmail.com
+БВП,Брутен вътрешен продукт,bg,out_expansion,Ирландия,petya.stoyanovaaaa@gmail.com
+ЕС,Европейски съюз,bg,out_expansion,Ирландия,petya.stoyanovaaaa@gmail.com
+ИРА,Републиканската армия,bg,in_expansion,Ирландия,petya.stoyanovaaaa@gmail.com
+ИЧР,Индекс на човешкото развитие,bg,out_expansion,Ирландия,petya.stoyanovaaaa@gmail.com
+НАТО,Организацията на Северноатлантическия договор,bg,out_expansion,Ирландия,petya.stoyanovaaaa@gmail.com
+ОИСР,Организация за икономическо сътрудничество и развитие,bg,out_expansion,Ирландия,petya.stoyanovaaaa@gmail.com
+ООН,Организация на обединените нации,bg,out_expansion,Ирландия,petya.stoyanovaaaa@gmail.com
+г.,година,bg,out_expansion,Ирландия,petya.stoyanovaaaa@gmail.com
+др.,други,bg,out_expansion,Ирландия,petya.stoyanovaaaa@gmail.com
+пр.н.е.,преди новата ера,bg,out_expansion,Ирландия,petya.stoyanovaaaa@gmail.com
+Dr.,Doctor,en,out_expansion,Капитан_Америка,dsgeorgiev90@yahoo.com
+Д-р,доктор,bg,out_expansion,Капитан_Америка,dsgeorgiev90@yahoo.com
+САЩ,Съединени Американски Щати,bg,out_expansion,Капитан_Америка,dsgeorgiev90@yahoo.com
+г.,година,bg,out_expansion,Капитан_Америка,dsgeorgiev90@yahoo.com
+кг,килограма,bg,out_expansion,Капитан_Америка,dsgeorgiev90@yahoo.com
+км,километра,bg,out_expansion,Капитан_Америка,dsgeorgiev90@yahoo.com
+Dr.,Doctor,en,out_expansion,Капитан_Америка,petya.stoyanovaaaa@gmail.com
+Д-р,доктор,bg,out_expansion,Капитан_Америка,petya.stoyanovaaaa@gmail.com
+САЩ,Съединени Американски Щати,bg,out_expansion,Капитан_Америка,petya.stoyanovaaaa@gmail.com
+г.,година,bg,out_expansion,Капитан_Америка,petya.stoyanovaaaa@gmail.com
+кг,килограма,bg,out_expansion,Капитан_Америка,petya.stoyanovaaaa@gmail.com
+км,километра,bg,out_expansion,Капитан_Америка,petya.stoyanovaaaa@gmail.com
+ВРУ,Временно Руско управление,bg,out_expansion,Княжество_България,dsgeorgiev90@yahoo.com
+ДВ,Държавен Вестник,bg,out_expansion,Княжество_България,dsgeorgiev90@yahoo.com
+ОНС,Обикновено народно събрание,bg,out_expansion,Княжество_България,dsgeorgiev90@yahoo.com
+бр.,брой,bg,out_expansion,Княжество_България,dsgeorgiev90@yahoo.com
+г.,година,bg,out_expansion,Княжество_България,dsgeorgiev90@yahoo.com
+км²,квадратни километри,bg,out_expansion,Княжество_България,dsgeorgiev90@yahoo.com
+чл.,член,bg,out_expansion,Княжество_България,dsgeorgiev90@yahoo.com
+ВРУ,Временно Руско управление,bg,out_expansion,Княжество_България,stella.vouteva@gmail.com
+ДВ,Държавен Вестник,bg,out_expansion,Княжество_България,stella.vouteva@gmail.com
+ОНС,Обикновено народно събрание,bg,out_expansion,Княжество_България,stella.vouteva@gmail.com
+бр.,брой,bg,out_expansion,Княжество_България,stella.vouteva@gmail.com
+г.,година,bg,out_expansion,Княжество_България,stella.vouteva@gmail.com
+км,километра,bg,out_expansion,Княжество_България,stella.vouteva@gmail.com
+чл.,член,bg,out_expansion,Княжество_България,stella.vouteva@gmail.com
+ДПС,Движение за права и свободи,bg,out_expansion,Конституционен_съд_на_България,g.yordanov999@gmail.com
+ЕС,Европейски съюз,bg,out_expansion,Конституционен_съд_на_България,g.yordanov999@gmail.com
+КС,Конституционният съд,bg,in_expansion,Конституционен_съд_на_България,g.yordanov999@gmail.com
+НС,Народно събрание,bg,out_expansion,Конституционен_съд_на_България,g.yordanov999@gmail.com
+РБ,Република България,bg,out_expansion,Конституционен_съд_на_България,g.yordanov999@gmail.com
+ал.,алинея,bg,out_expansion,Конституционен_съд_на_България,g.yordanov999@gmail.com
+г.,година,bg,out_expansion,Конституционен_съд_на_България,g.yordanov999@gmail.com
+т.,точка,bg,out_expansion,Конституционен_съд_на_България,g.yordanov999@gmail.com
+т. нар,така наречен,bg,out_expansion,Конституционен_съд_на_България,g.yordanov999@gmail.com
+чл.,член,bg,out_expansion,Конституционен_съд_на_България,g.yordanov999@gmail.com
+ЕС,Европейски съюз,bg,out_expansion,Конституционен_съд_на_България,violeta.todorovaaa@gmail.com
+КС,Конституционният съд,bg,in_expansion,Конституционен_съд_на_България,violeta.todorovaaa@gmail.com
+НС,Народно събрание,bg,out_expansion,Конституционен_съд_на_България,violeta.todorovaaa@gmail.com
+РБ,Република България,bg,out_expansion,Конституционен_съд_на_България,violeta.todorovaaa@gmail.com
+ал.,алинея,bg,out_expansion,Конституционен_съд_на_България,violeta.todorovaaa@gmail.com
+г.,година,bg,out_expansion,Конституционен_съд_на_България,violeta.todorovaaa@gmail.com
+т.,точка,bg,out_expansion,Конституционен_съд_на_България,violeta.todorovaaa@gmail.com
+чл.,член,bg,out_expansion,Конституционен_съд_на_България,violeta.todorovaaa@gmail.com
+г.,година,bg,out_expansion,Крис_Евънс,georgitidorov4508@gmail.com
+г.,година,bg,out_expansion,Крис_Евънс,petya.stoyanovaaaa@gmail.com
+MVP,Most Valuable Player,en,out_expansion,Леброн_Джеймс,dsgeorgiev90@yahoo.com
+NBA,National Basketball Association,en,out_expansion,Леброн_Джеймс,dsgeorgiev90@yahoo.com
+ЛА,Лос Анджелис,bg,out_expansion,Леброн_Джеймс,dsgeorgiev90@yahoo.com
+НБА,Национална баскетболна асоциация,bg,out_expansion,Леброн_Джеймс,dsgeorgiev90@yahoo.com
+г.,година,bg,out_expansion,Леброн_Джеймс,dsgeorgiev90@yahoo.com
+кг,килограм,bg,out_expansion,Леброн_Джеймс,dsgeorgiev90@yahoo.com
+см,сантиметър,bg,out_expansion,Леброн_Джеймс,dsgeorgiev90@yahoo.com
+MVP,Most Valuable Player,en,out_expansion,Леброн_Джеймс,petya.stoyanovaaaa@gmail.com
+NBA,National Basketball Association,en,out_expansion,Леброн_Джеймс,petya.stoyanovaaaa@gmail.com
+ЛА,Лос Анджелис,bg,out_expansion,Леброн_Джеймс,petya.stoyanovaaaa@gmail.com
+НБА,Национална баскетболна асоциация,bg,out_expansion,Леброн_Джеймс,petya.stoyanovaaaa@gmail.com
+г.,година,bg,out_expansion,Леброн_Джеймс,petya.stoyanovaaaa@gmail.com
+кг,килограм,bg,out_expansion,Леброн_Джеймс,petya.stoyanovaaaa@gmail.com
+см,сантиметър,bg,out_expansion,Леброн_Джеймс,petya.stoyanovaaaa@gmail.com
+EAA,Европейската асоциация по лека атлетика,en,in_expansion,Лека_атлетика,stella.vouteva@gmail.com
+IAAF,Международната асоциация на лекоатлетическите федерации,en,in_expansion,Лека_атлетика,stella.vouteva@gmail.com
+БФЛА,Българската федерация по лека атлетика,bg,in_expansion,Лека_атлетика,stella.vouteva@gmail.com
+ИААФ,Международната асоциация на лекоатлетическите федерации,bg,in_expansion,Лека_атлетика,stella.vouteva@gmail.com
+САЩ,Съединени Американски Щати,bg,out_expansion,Лека_атлетика,stella.vouteva@gmail.com
+EAA,Европейската асоциация по лека атлетика,bg,in_expansion,Лека_атлетика,violeta.todorovaaa@gmail.com
+IAAF,Международната асоциация на лекоатлетическите федерации,bg,in_expansion,Лека_атлетика,violeta.todorovaaa@gmail.com
+БФЛА,Българската федерация по лека атлетика,bg,in_expansion,Лека_атлетика,violeta.todorovaaa@gmail.com
+ИААФ,Международната асоциация на лекоатлетическите федерации,bg,in_expansion,Лека_атлетика,violeta.todorovaaa@gmail.com
+САЩ,Съединени Американски Щати,bg,out_expansion,Лека_атлетика,violeta.todorovaaa@gmail.com
+г.,година,bg,out_expansion,Лека_атлетика,violeta.todorovaaa@gmail.com
+км,километър,bg,out_expansion,Лека_атлетика,violeta.todorovaaa@gmail.com
+пр.н.е.,преди новата ера,bg,out_expansion,Лека_атлетика,violeta.todorovaaa@gmail.com
+т.е.,тоест,bg,out_expansion,Лека_атлетика,violeta.todorovaaa@gmail.com
+АД,Акционерно дружество,bg,out_expansion,Лукойл_Нефтохим_Бургас,g.yordanov999@gmail.com
+г.,година,bg,out_expansion,Лукойл_Нефтохим_Бургас,g.yordanov999@gmail.com
+млн.,милиона,bg,out_expansion,Лукойл_Нефтохим_Бургас,g.yordanov999@gmail.com
+млрд.,милиарда,bg,out_expansion,Лукойл_Нефтохим_Бургас,g.yordanov999@gmail.com
+т.,тона,bg,out_expansion,Лукойл_Нефтохим_Бургас,g.yordanov999@gmail.com
+хил.,хиляди,bg,out_expansion,Лукойл_Нефтохим_Бургас,g.yordanov999@gmail.com
+АД,Акционерно дружество,bg,out_expansion,Лукойл_Нефтохим_Бургас,georgitidorov4508@gmail.com
+г.,година,bg,out_expansion,Лукойл_Нефтохим_Бургас,georgitidorov4508@gmail.com
+млн.,милиона,bg,out_expansion,Лукойл_Нефтохим_Бургас,georgitidorov4508@gmail.com
+млрд.,милиарда,bg,out_expansion,Лукойл_Нефтохим_Бургас,georgitidorov4508@gmail.com
+т.,тона,bg,out_expansion,Лукойл_Нефтохим_Бургас,georgitidorov4508@gmail.com
+хил.,хиляди,bg,out_expansion,Лукойл_Нефтохим_Бургас,georgitidorov4508@gmail.com
+САЩ,Съединени Американски Щати,bg,out_expansion,Майкъл_Фелпс,petya.stoyanovaaaa@gmail.com
+г.,година,bg,out_expansion,Майкъл_Фелпс,petya.stoyanovaaaa@gmail.com
+м.,метър,bg,out_expansion,Майкъл_Фелпс,petya.stoyanovaaaa@gmail.com
+САЩ,Съединени Американски Щати,bg,out_expansion,Майкъл_Фелпс,violeta.todorovaaa@gmail.com
+г.,година,bg,out_expansion,Майкъл_Фелпс,violeta.todorovaaa@gmail.com
+м.,метър,bg,out_expansion,Майкъл_Фелпс,violeta.todorovaaa@gmail.com
+БАФТА,Британската академия за филмово и телевизионно изкуство,bg,out_expansion,Марк_Ръфало,georgitidorov4508@gmail.com
+г.,година,bg,out_expansion,Марк_Ръфало,georgitidorov4508@gmail.com
+БАФТА,Британската академия за филмово и телевизионно изкуство,bg,out_expansion,Марк_Ръфало,petya.stoyanovaaaa@gmail.com
+г.,година,bg,out_expansion,Марк_Ръфало,petya.stoyanovaaaa@gmail.com
+ADAC,Allgemeiner Deutscher Automobil-Club,none_of_above,out_expansion,Международна_автомобилна_федерация,g.yordanov999@gmail.com
+AIACR,Association Internationale des Automobile Clubs Reconnus,none_of_above,out_expansion,Международна_автомобилна_федерация,g.yordanov999@gmail.com
+CSI,Commission Sportive Internationale,none_of_above,in_expansion,Международна_автомобилна_федерация,g.yordanov999@gmail.com
+FIA,Fédération Internationale de l'Automobile,none_of_above,in_expansion,Международна_автомобилна_федерация,g.yordanov999@gmail.com
+FIM,Fédération Internationale de Motocyclisme,none_of_above,out_expansion,Международна_автомобилна_федерация,g.yordanov999@gmail.com
+FISA,Fédération Internationale du Sport Automobile,none_of_above,out_expansion,Международна_автомобилна_федерация,g.yordanov999@gmail.com
+ITV,Independent Television,en,out_expansion,Международна_автомобилна_федерация,g.yordanov999@gmail.com
+WTCC,World Touring Car Championship,en,out_expansion,Международна_автомобилна_федерация,g.yordanov999@gmail.com
+САЩ,Съединени Американски Щати,bg,out_expansion,Международна_автомобилна_федерация,g.yordanov999@gmail.com
+ФИА,Международната автомобилна федерация,other language,in_expansion,Международна_автомобилна_федерация,g.yordanov999@gmail.com
+ФИФА,Международната футболна федерация,bg,out_expansion,Международна_автомобилна_федерация,g.yordanov999@gmail.com
+г.,година,bg,out_expansion,Международна_автомобилна_федерация,g.yordanov999@gmail.com
+фр.,френски,bg,out_expansion,Международна_автомобилна_федерация,g.yordanov999@gmail.com
+ADAC,Allgemeiner Deutscher Automobil-Club,none_of_above,out_expansion,Международна_автомобилна_федерация,petya.stoyanovaaaa@gmail.com
+AIACR,Association Internationale des Automobile Clubs Reconnus,none_of_above,out_expansion,Международна_автомобилна_федерация,petya.stoyanovaaaa@gmail.com
+CSI,Commission Sportive Internationale,en,in_expansion,Международна_автомобилна_федерация,petya.stoyanovaaaa@gmail.com
+FIA,Fédération Internationale de l'Automobile,none_of_above,in_expansion,Международна_автомобилна_федерация,petya.stoyanovaaaa@gmail.com
+FIM,Fédération Internationale de Motocyclisme,none_of_above,out_expansion,Международна_автомобилна_федерация,petya.stoyanovaaaa@gmail.com
+FISA,Fédération Internationale du Sport Automobile,none_of_above,in_expansion,Международна_автомобилна_федерация,petya.stoyanovaaaa@gmail.com
+ITV,Independent Television,en,out_expansion,Международна_автомобилна_федерация,petya.stoyanovaaaa@gmail.com
+WTCC,World Touring Car Championship,en,out_expansion,Международна_автомобилна_федерация,petya.stoyanovaaaa@gmail.com
+САЩ,Съединени Американски Щати,bg,out_expansion,Международна_автомобилна_федерация,petya.stoyanovaaaa@gmail.com
+ФИА,Международната автомобилна федерация,bg,in_expansion,Международна_автомобилна_федерация,petya.stoyanovaaaa@gmail.com
+ФИФА,Международната футболна федерация,bg,out_expansion,Международна_автомобилна_федерация,petya.stoyanovaaaa@gmail.com
+г.,година,bg,out_expansion,Международна_автомобилна_федерация,petya.stoyanovaaaa@gmail.com
+фр.,френски,bg,out_expansion,Международна_автомобилна_федерация,petya.stoyanovaaaa@gmail.com
+GMBH,Gesellschaft mit beschränkter Haftung,none_of_above,out_expansion,Метро_Груп,dsgeorgiev90@yahoo.com
+АД,Акционерно дружество,bg,out_expansion,Метро_Груп,dsgeorgiev90@yahoo.com
+ООД,Дружество с ограничена отговорност,bg,out_expansion,Метро_Груп,dsgeorgiev90@yahoo.com
+г.,година,bg,out_expansion,Метро_Груп,dsgeorgiev90@yahoo.com
+д-р,Доктор,bg,out_expansion,Метро_Груп,dsgeorgiev90@yahoo.com
+проф.,Професор,bg,out_expansion,Метро_Груп,dsgeorgiev90@yahoo.com
+GMBH,Gesellschaft mit beschränkter Haftung,none_of_above,out_expansion,Метро_Груп,violeta.todorovaaa@gmail.com
+АД,Акционерно дружество,bg,out_expansion,Метро_Груп,violeta.todorovaaa@gmail.com
+ООД,Дружество с ограничена отговорност,bg,out_expansion,Метро_Груп,violeta.todorovaaa@gmail.com
+г.,година,bg,out_expansion,Метро_Груп,violeta.todorovaaa@gmail.com
+д-р,Доктор,bg,out_expansion,Метро_Груп,violeta.todorovaaa@gmail.com
+т.е.,тоест,bg,out_expansion,Метро_Груп,violeta.todorovaaa@gmail.com
+САЩ,Съединени Американски Щати,en,out_expansion,Микроелектроника,dsgeorgiev90@yahoo.com
+проф.,професор,bg,out_expansion,Микроелектроника,dsgeorgiev90@yahoo.com
+САЩ,Съединени Американски Щати,bg,out_expansion,Микроелектроника,georgitidorov4508@gmail.com
+хил.,хиляди,bg,out_expansion,Микроелектроника,georgitidorov4508@gmail.com
+т.е.,тоест,bg,out_expansion,Микропроцесор,dsgeorgiev90@yahoo.com
+AMD,Advanced MicroDevices,en,in_expansion,Микропроцесор,dsgeorgiev90@yahoo.com
+BSB,Back Side Bus,en,in_expansion,Микропроцесор,dsgeorgiev90@yahoo.com
+CMOS,Complementary metal–oxide–semiconductor,en,out_expansion,Микропроцесор,dsgeorgiev90@yahoo.com
+CPI,Cycles per instruction,en,out_expansion,Микропроцесор,dsgeorgiev90@yahoo.com
+DMA,Direct Memory Access,en,in_expansion,Микропроцесор,dsgeorgiev90@yahoo.com
+DOS,disk-operating system,en,out_expansion,Микропроцесор,dsgeorgiev90@yahoo.com
+DSP,Digital Signal Processors,en,out_expansion,Микропроцесор,dsgeorgiev90@yahoo.com
+FLOPS,floating point operations per second,en,out_expansion,Микропроцесор,dsgeorgiev90@yahoo.com
+FSB,Front Side Bus,en,in_expansion,Микропроцесор,dsgeorgiev90@yahoo.com
+GB,gigabyte,en,out_expansion,Микропроцесор,dsgeorgiev90@yahoo.com
+GHz,gigahertz,en,out_expansion,Микропроцесор,dsgeorgiev90@yahoo.com
+HDD,Hard disk drive,en,out_expansion,Микропроцесор,dsgeorgiev90@yahoo.com
+IBM,International Business Machines,en,out_expansion,Микропроцесор,dsgeorgiev90@yahoo.com
+MHz,megahertz,en,out_expansion,Микропроцесор,dsgeorgiev90@yahoo.com
+MIPS,Million instructions per second,en,out_expansion,Микропроцесор,dsgeorgiev90@yahoo.com
+PC,Personal Computer,en,out_expansion,Микропроцесор,dsgeorgiev90@yahoo.com
+RAM,Random access memory,en,out_expansion,Микропроцесор,dsgeorgiev90@yahoo.com
+ROM,read only memory,en,out_expansion,Микропроцесор,dsgeorgiev90@yahoo.com
+SSD,Solid state drive,en,out_expansion,Микропроцесор,dsgeorgiev90@yahoo.com
+VM,Virtual Machine,en,out_expansion,Микропроцесор,dsgeorgiev90@yahoo.com
+kHz,kilohertz,bg,out_expansion,Микропроцесор,dsgeorgiev90@yahoo.com
+ИС,Информационна система,bg,out_expansion,Микропроцесор,dsgeorgiev90@yahoo.com
+КВ,Kilobyte,en,out_expansion,Микропроцесор,dsgeorgiev90@yahoo.com
+MB,Megabyte,en,out_expansion,Микропроцесор,dsgeorgiev90@yahoo.com
+МОП,Метал Оксид Полупроводник,bg,out_expansion,Микропроцесор,dsgeorgiev90@yahoo.com
+г.,година,bg,out_expansion,Микропроцесор,dsgeorgiev90@yahoo.com
+AMD,Advanced MicroDevices,en,in_expansion,Микропроцесор,petya.stoyanovaaaa@gmail.com
+BSB,Back Side Bus,en,in_expansion,Микропроцесор,petya.stoyanovaaaa@gmail.com
+CMOS,Complementary metal–oxide–semiconductor,en,out_expansion,Микропроцесор,petya.stoyanovaaaa@gmail.com
+CPI,Cycles per instruction,en,out_expansion,Микропроцесор,petya.stoyanovaaaa@gmail.com
+DMA,Direct Memory Access,en,in_expansion,Микропроцесор,petya.stoyanovaaaa@gmail.com
+DOS,disk-operating system,en,out_expansion,Микропроцесор,petya.stoyanovaaaa@gmail.com
+DSP,Digital Signal Processors,en,out_expansion,Микропроцесор,petya.stoyanovaaaa@gmail.com
+FLOPS,floating point operations per second,en,out_expansion,Микропроцесор,petya.stoyanovaaaa@gmail.com
+FSB,Front Side Bus,en,in_expansion,Микропроцесор,petya.stoyanovaaaa@gmail.com
+GB,gigabyte,en,out_expansion,Микропроцесор,petya.stoyanovaaaa@gmail.com
+GHz,gigahertz,en,out_expansion,Микропроцесор,petya.stoyanovaaaa@gmail.com
+HDD,Hard disk drive,en,out_expansion,Микропроцесор,petya.stoyanovaaaa@gmail.com
+IBM,International Business Machines,en,out_expansion,Микропроцесор,petya.stoyanovaaaa@gmail.com
+MB,Megabyte,en,out_expansion,Микропроцесор,petya.stoyanovaaaa@gmail.com
+MHz,megahertz,en,out_expansion,Микропроцесор,petya.stoyanovaaaa@gmail.com
+MIPS,Million instructions per second,en,out_expansion,Микропроцесор,petya.stoyanovaaaa@gmail.com
+,Not a number,en,out_expansion,Микропроцесор,petya.stoyanovaaaa@gmail.com
+PC,Personal Computer,en,out_expansion,Микропроцесор,petya.stoyanovaaaa@gmail.com
+PDP,Programmed Data Processor,en,out_expansion,Микропроцесор,petya.stoyanovaaaa@gmail.com
+RAM,Random access memory,en,out_expansion,Микропроцесор,petya.stoyanovaaaa@gmail.com
+ROM,read only memory,en,out_expansion,Микропроцесор,petya.stoyanovaaaa@gmail.com
+SSD,Solid state drive,en,out_expansion,Микропроцесор,petya.stoyanovaaaa@gmail.com
+VM,Virtual Machine,en,out_expansion,Микропроцесор,petya.stoyanovaaaa@gmail.com
+kHz,kilohertz,en,out_expansion,Микропроцесор,petya.stoyanovaaaa@gmail.com
+ИС,Информационна система,bg,out_expansion,Микропроцесор,petya.stoyanovaaaa@gmail.com
+КВ,Kilobyte,en,out_expansion,Микропроцесор,petya.stoyanovaaaa@gmail.com
+МОП,Метал Оксид Полупроводник,bg,out_expansion,Микропроцесор,petya.stoyanovaaaa@gmail.com
+МП,мулти процесор,bg,out_expansion,Микропроцесор,petya.stoyanovaaaa@gmail.com
+г.,година,bg,out_expansion,Микропроцесор,petya.stoyanovaaaa@gmail.com
+др.,други,bg,out_expansion,Микропроцесор,petya.stoyanovaaaa@gmail.com
+напр.,например,bg,out_expansion,Микропроцесор,petya.stoyanovaaaa@gmail.com
+DVD,Digital Video Disc,en,out_expansion,Мила_Кунис,georgitidorov4508@gmail.com
+САЩ,Съединени Американски Щати,bg,out_expansion,Мила_Кунис,georgitidorov4508@gmail.com
+ССР,Съюз на съветските социалистически републики,bg,out_expansion,Мила_Кунис,georgitidorov4508@gmail.com
+г.,година,bg,out_expansion,Мила_Кунис,georgitidorov4508@gmail.com
+DVD,Digital Video Disc,en,out_expansion,Мила_Кунис,petya.stoyanovaaaa@gmail.com
+САЩ,Съединени Американски Щати,bg,out_expansion,Мила_Кунис,petya.stoyanovaaaa@gmail.com
+ССР,Съюз на съветските социалистически републики,bg,out_expansion,Мила_Кунис,petya.stoyanovaaaa@gmail.com
+МВРИ,Министерство на външните работи/дела/ и изповеданията,bg,in_expansion,Министерство_на_външните_работи_на_България,g.yordanov999@gmail.com
+МВнР,Министерството на външните работи,bg,in_expansion,Министерство_на_външните_работи_на_България,g.yordanov999@gmail.com
+г.,година,bg,out_expansion,Министерство_на_външните_работи_на_България,g.yordanov999@gmail.com
+чл.,член,bg,out_expansion,Министерство_на_външните_работи_на_България,g.yordanov999@gmail.com
+МВРИ,Министерство на външните работи/дела/ и изповеданията,bg,in_expansion,Министерство_на_външните_работи_на_България,violeta.todorovaaa@gmail.com
+МВнР,Министерството на външните работи,bg,in_expansion,Министерство_на_външните_работи_на_България,violeta.todorovaaa@gmail.com
+г.,година,bg,out_expansion,Министерство_на_външните_работи_на_България,violeta.todorovaaa@gmail.com
+чл.,член,bg,out_expansion,Министерство_на_външните_работи_на_България,violeta.todorovaaa@gmail.com
+OS,Operating System,en,out_expansion,Мобилно_устройство,dsgeorgiev90@yahoo.com
+PDA,Personal digital assistant,en,out_expansion,Мобилно_устройство,dsgeorgiev90@yahoo.com
+RFID,Radio-frequency identification,en,out_expansion,Мобилно_устройство,dsgeorgiev90@yahoo.com
+Wi-Fi,wireless fidelity,en,out_expansion,Мобилно_устройство,dsgeorgiev90@yahoo.com
+ОС,операционна система,bg,out_expansion,Мобилно_устройство,dsgeorgiev90@yahoo.com
+г.,година,bg,out_expansion,Мобилно_устройство,dsgeorgiev90@yahoo.com
+OS,Operating System,en,out_expansion,Мобилно_устройство,violeta.todorovaaa@gmail.com
+PDA,Personal digital assistant,en,out_expansion,Мобилно_устройство,violeta.todorovaaa@gmail.com
+RFID,Radio-frequency identification,en,out_expansion,Мобилно_устройство,violeta.todorovaaa@gmail.com
+ОС,операционна система,bg,in_expansion,Мобилно_устройство,violeta.todorovaaa@gmail.com
+г.,година,bg,out_expansion,Мобилно_устройство,violeta.todorovaaa@gmail.com
+HBO,Home Box Office,en,out_expansion,Модерно_семейство,georgitidorov4508@gmail.com
+г.,година,bg,out_expansion,Модерно_семейство,georgitidorov4508@gmail.com
+HBO,Home Box Office,en,out_expansion,Модерно_семейство,petya.stoyanovaaaa@gmail.com
+г.,година,bg,out_expansion,Модерно_семейство,petya.stoyanovaaaa@gmail.com
+МиР,Музиканти и репертоар,bg,in_expansion,Музикален_продуцент,dsgeorgiev90@yahoo.com
+САЩ,Съединени Американски Щати,bg,out_expansion,Музикален_продуцент,dsgeorgiev90@yahoo.com
+т.нар.,така наречен,bg,out_expansion,Музикален_продуцент,dsgeorgiev90@yahoo.com
+МиР,Музиканти и репертоар,bg,in_expansion,Музикален_продуцент,violeta.todorovaaa@gmail.com
+САЩ,Съединени Американски Щати,bg,out_expansion,Музикален_продуцент,violeta.todorovaaa@gmail.com
+т.нар.,така наречен,bg,out_expansion,Музикален_продуцент,violeta.todorovaaa@gmail.com
+cm,centimeter,en,out_expansion,Награди_на_филмовата_академия_на_САЩ,georgitidorov4508@gmail.com
+kg,kilogram,en,out_expansion,Награди_на_филмовата_академия_на_САЩ,georgitidorov4508@gmail.com
+САЩ,Съединени Американски Щати,bg,out_expansion,Награди_на_филмовата_академия_на_САЩ,georgitidorov4508@gmail.com
+г.,година,bg,out_expansion,Награди_на_филмовата_академия_на_САЩ,georgitidorov4508@gmail.com
+cm,centimeter,en,out_expansion,Награди_на_филмовата_академия_на_САЩ,petya.stoyanovaaaa@gmail.com
+kg,kilogram,en,out_expansion,Награди_на_филмовата_академия_на_САЩ,petya.stoyanovaaaa@gmail.com
+САЩ,Съединени Американски Щати,bg,out_expansion,Награди_на_филмовата_академия_на_САЩ,petya.stoyanovaaaa@gmail.com
+г.,година,bg,out_expansion,Награди_на_филмовата_академия_на_САЩ,petya.stoyanovaaaa@gmail.com
+БНТ,Българска Национална Телевизия,bg,out_expansion,Народно_събрание,stella.vouteva@gmail.com
+ВНС,Великото народно събрание,other language,in_expansion,Народно_събрание,stella.vouteva@gmail.com
+МС,Министерски Съвет,bg,out_expansion,Народно_събрание,stella.vouteva@gmail.com
+НС,Народно Събрание,bg,out_expansion,Народно_събрание,stella.vouteva@gmail.com
+г.,година,bg,out_expansion,Народно_събрание,stella.vouteva@gmail.com
+др.,други,en,out_expansion,Народно_събрание,stella.vouteva@gmail.com
+т.е.,тоест,en,out_expansion,Народно_събрание,stella.vouteva@gmail.com
+чл.,член,en,out_expansion,Народно_събрание,stella.vouteva@gmail.com
+БНТ,Българска Национална Телевизия,bg,out_expansion,Народно_събрание,violeta.todorovaaa@gmail.com
+ВНС,Великото народно събрание,bg,in_expansion,Народно_събрание,violeta.todorovaaa@gmail.com
+МС,Министерски Съвет,bg,out_expansion,Народно_събрание,violeta.todorovaaa@gmail.com
+НС,Народно Събрание,bg,out_expansion,Народно_събрание,violeta.todorovaaa@gmail.com
+англ.,английски,bg,out_expansion,Народно_събрание,violeta.todorovaaa@gmail.com
+г.,година,bg,out_expansion,Народно_събрание,violeta.todorovaaa@gmail.com
+др.,други,bg,out_expansion,Народно_събрание,violeta.todorovaaa@gmail.com
+т.е.,тоест,bg,out_expansion,Народно_събрание,violeta.todorovaaa@gmail.com
+чл.,член,bg,out_expansion,Народно_събрание,violeta.todorovaaa@gmail.com
+AAFCE,Allied Air Forces Central Europe,en,out_expansion,НАТО,g.yordanov999@gmail.com
+BAOR,British Army of the Rhine,en,out_expansion,НАТО,g.yordanov999@gmail.com
+BGM,"Multiple Environment (B), Surface-Attack (G), Missile (M)",en,out_expansion,НАТО,g.yordanov999@gmail.com
+GLCM,Ground Launched Cruise Missile,en,out_expansion,НАТО,g.yordanov999@gmail.com
+SHAPE,Supreme Headquarters Allied Powers Europe,en,in_expansion,НАТО,g.yordanov999@gmail.com
+STANAG,standardization agreement,en,out_expansion,НАТО,g.yordanov999@gmail.com
+mm,milimeter,en,out_expansion,НАТО,g.yordanov999@gmail.com
+ГДР,Германска демократична република,bg,out_expansion,НАТО,g.yordanov999@gmail.com
+НАТО,Организацията на Северноатлантическия договор,bg,out_expansion,НАТО,g.yordanov999@gmail.com
+ООН,Организация на обединените нации,bg,out_expansion,НАТО,g.yordanov999@gmail.com
+САЩ,Съединени Американски Щати,bg,out_expansion,НАТО,g.yordanov999@gmail.com
+СССР,Съюз на съветските социалистически републики,bg,out_expansion,НАТО,g.yordanov999@gmail.com
+ФРГ,Федерална република Германия,bg,out_expansion,НАТО,g.yordanov999@gmail.com
+г.,година,bg,out_expansion,НАТО,g.yordanov999@gmail.com
+AAFCE,Allied Air Forces Central Europe,en,out_expansion,НАТО,georgitidorov4508@gmail.com
+BAOR,British Army of the Rhine,en,out_expansion,НАТО,georgitidorov4508@gmail.com
+BGM,"Multiple Environment (B), Surface-Attack (G), Missile (M)",en,out_expansion,НАТО,georgitidorov4508@gmail.com
+GLCM,Ground Launched Cruise Missile,en,out_expansion,НАТО,georgitidorov4508@gmail.com
+SHAPE,Supreme Headquarters Allied Powers Europe,en,in_expansion,НАТО,georgitidorov4508@gmail.com
+STANAG,standardization agreement,en,out_expansion,НАТО,georgitidorov4508@gmail.com
+mm,milimeter,en,out_expansion,НАТО,georgitidorov4508@gmail.com
+ГДР,Германска демократична република,bg,out_expansion,НАТО,georgitidorov4508@gmail.com
+НАТО,Организацията на Северноатлантическия договор,bg,in_expansion,НАТО,georgitidorov4508@gmail.com
+ООН,Организация на обединените нации,bg,out_expansion,НАТО,georgitidorov4508@gmail.com
+САЩ,Съединени Американски Щати,bg,out_expansion,НАТО,georgitidorov4508@gmail.com
+СССР,Съюз на съветските социалистически републики,bg,out_expansion,НАТО,georgitidorov4508@gmail.com
+ФРГ,Федерална република Германия,bg,out_expansion,НАТО,georgitidorov4508@gmail.com
+г.,година,bg,out_expansion,НАТО,georgitidorov4508@gmail.com
+MVP,Most Valuable Player,en,out_expansion,Национална_баскетболна_асоциация,dsgeorgiev90@yahoo.com
+АБА,Американска баскетболна асоциация,bg,in_expansion,Национална_баскетболна_асоциация,dsgeorgiev90@yahoo.com
+НБА,Националната баскетболна асоциация,bg,in_expansion,Национална_баскетболна_асоциация,dsgeorgiev90@yahoo.com
+НБЛ,Националната баскетболна лига,en,in_expansion,Национална_баскетболна_асоциация,dsgeorgiev90@yahoo.com
+САЩ,Съединени американски щати,en,in_expansion,Национална_баскетболна_асоциация,dsgeorgiev90@yahoo.com
+г.,година,bg,out_expansion,Национална_баскетболна_асоциация,dsgeorgiev90@yahoo.com
+др.,други,bg,out_expansion,Национална_баскетболна_асоциация,dsgeorgiev90@yahoo.com
+т. нар.,така наречен,bg,out_expansion,Национална_баскетболна_асоциация,dsgeorgiev90@yahoo.com
+т.е.,тоест,bg,out_expansion,Национална_баскетболна_асоциация,dsgeorgiev90@yahoo.com
+т.н.,така нататък,bg,out_expansion,Национална_баскетболна_асоциация,dsgeorgiev90@yahoo.com
+MVP,Most Valuable Player,en,out_expansion,Национална_баскетболна_асоциация,petya.stoyanovaaaa@gmail.com
+АБА,Американска баскетболна асоциация,bg,in_expansion,Национална_баскетболна_асоциация,petya.stoyanovaaaa@gmail.com
+НБА,Националната баскетболна асоциация,bg,in_expansion,Национална_баскетболна_асоциация,petya.stoyanovaaaa@gmail.com
+НБЛ,Националната баскетболна лига,bg,in_expansion,Национална_баскетболна_асоциация,petya.stoyanovaaaa@gmail.com
+САЩ,Съединени американски щати,en,out_expansion,Национална_баскетболна_асоциация,petya.stoyanovaaaa@gmail.com
+г.,година,en,out_expansion,Национална_баскетболна_асоциация,petya.stoyanovaaaa@gmail.com
+др.,други,en,out_expansion,Национална_баскетболна_асоциация,petya.stoyanovaaaa@gmail.com
+т. нар.,така наречен,en,out_expansion,Национална_баскетболна_асоциация,petya.stoyanovaaaa@gmail.com
+т.е.,тоест,en,out_expansion,Национална_баскетболна_асоциация,petya.stoyanovaaaa@gmail.com
+т.н.,така нататък,en,out_expansion,Национална_баскетболна_асоциация,petya.stoyanovaaaa@gmail.com
+CES,Consumer Electronics Show,en,out_expansion,Нетфликс,dsgeorgiev90@yahoo.com
+г.,година,bg,out_expansion,Нетфликс,dsgeorgiev90@yahoo.com
+млн.,милион,bg,out_expansion,Нетфликс,dsgeorgiev90@yahoo.com
+CES,Consumer Electronics Show,en,out_expansion,Нетфликс,georgitidorov4508@gmail.com
+г.,година,bg,out_expansion,Нетфликс,georgitidorov4508@gmail.com
+UCAS,Universities and Colleges Admissions Service,en,out_expansion,Оксфордски_университет,g.yordanov999@gmail.com
+акад.,академик,bg,out_expansion,Оксфордски_университет,g.yordanov999@gmail.com
+в.,вестник,bg,out_expansion,Оксфордски_университет,g.yordanov999@gmail.com
+г.,година,bg,out_expansion,Оксфордски_университет,g.yordanov999@gmail.com
+св.,свети,bg,out_expansion,Оксфордски_университет,g.yordanov999@gmail.com
+UCAS,Universities and Colleges Admissions Service,en,out_expansion,Оксфордски_университет,petya.stoyanovaaaa@gmail.com
+акад.,академик,bg,out_expansion,Оксфордски_университет,petya.stoyanovaaaa@gmail.com
+в.,вестник,bg,out_expansion,Оксфордски_университет,petya.stoyanovaaaa@gmail.com
+г.,година,bg,out_expansion,Оксфордски_университет,petya.stoyanovaaaa@gmail.com
+св.,свети,bg,out_expansion,Оксфордски_университет,petya.stoyanovaaaa@gmail.com
+ВОСР,Велика октомврийска социалистическа революция,other language,in_expansion,Октомврийска_революция,stella.vouteva@gmail.com
+СССР,Съюз на съветските социалистически републики,bg,out_expansion,Октомврийска_революция,stella.vouteva@gmail.com
+г.,година,bg,out_expansion,Октомврийска_революция,stella.vouteva@gmail.com
+др.,други,en,out_expansion,Октомврийска_революция,stella.vouteva@gmail.com
+др.п.,други подобни,bg,out_expansion,Октомврийска_революция,stella.vouteva@gmail.com
+ВОСР,Велика октомврийска социалистическа революция,bg,in_expansion,Октомврийска_революция,violeta.todorovaaa@gmail.com
+СССР,Съюз на съветските социалистически републики,bg,out_expansion,Октомврийска_революция,violeta.todorovaaa@gmail.com
+г.,година,bg,out_expansion,Октомврийска_революция,violeta.todorovaaa@gmail.com
+МОК,Международен олимпийски комитет,bg,in_expansion,Олимпийски_игри,petya.stoyanovaaaa@gmail.com
+НБА,Национална баскетболна асоциация,bg,out_expansion,Олимпийски_игри,petya.stoyanovaaaa@gmail.com
+САЩ,Съединени Американски Щати,bg,out_expansion,Олимпийски_игри,petya.stoyanovaaaa@gmail.com
+г.,година,bg,out_expansion,Олимпийски_игри,petya.stoyanovaaaa@gmail.com
+пр.н.е.,преди новата ера,bg,out_expansion,Олимпийски_игри,petya.stoyanovaaaa@gmail.com
+т.нар.,така наречен,bg,out_expansion,Олимпийски_игри,petya.stoyanovaaaa@gmail.com
+МОК,Международен олимпийски комитет,bg,in_expansion,Олимпийски_игри,violeta.todorovaaa@gmail.com
+НБА,Национална баскетболна асоциация,bg,out_expansion,Олимпийски_игри,violeta.todorovaaa@gmail.com
+САЩ,Съединени Американски Щати,bg,out_expansion,Олимпийски_игри,violeta.todorovaaa@gmail.com
+г.,година,bg,out_expansion,Олимпийски_игри,violeta.todorovaaa@gmail.com
+пр.н.е.,преди новата ера,bg,out_expansion,Олимпийски_игри,violeta.todorovaaa@gmail.com
+т.нар.,така наречен,bg,out_expansion,Олимпийски_игри,violeta.todorovaaa@gmail.com
+,Not a number,en,out_expansion,Операционна_система,dsgeorgiev90@yahoo.com
+ACP,Airline Control Program,en,in_expansion,Операционна_система,dsgeorgiev90@yahoo.com
+AIX,Australian Securities Exchange,other language,out_expansion,Операционна_система,dsgeorgiev90@yahoo.com
+ARPANET,Advanced Research Projects Agency Network,en,out_expansion,Операционна_система,dsgeorgiev90@yahoo.com
+BCPL,Basic Combined Programming Language,en,out_expansion,Операционна_система,dsgeorgiev90@yahoo.com
+BDS,Berkeley Standard Distribution,en,out_expansion,Операционна_система,dsgeorgiev90@yahoo.com
+BIOS,Basic Input/Output System,en,out_expansion,Операционна_система,dsgeorgiev90@yahoo.com
+BOS,Basic Operating System,en,in_expansion,Операционна_система,dsgeorgiev90@yahoo.com
+BSD,Berkeley Software Distribution,en,out_expansion,Операционна_система,dsgeorgiev90@yahoo.com
+CD,compact disc,en,out_expansion,Операционна_система,dsgeorgiev90@yahoo.com
+CE,Embedded Compact,en,out_expansion,Операционна_система,dsgeorgiev90@yahoo.com
+DEC,Digital Equipment Corporation,en,out_expansion,Операционна_система,dsgeorgiev90@yahoo.com
+DOS,Disk Operating System,en,in_expansion,Операционна_система,dsgeorgiev90@yahoo.com
+DVD,digital versatile disc,en,out_expansion,Операционна_система,dsgeorgiev90@yahoo.com
+EFI,Extensible Firmware Interface,en,out_expansion,Операционна_система,dsgeorgiev90@yahoo.com
+FTP,file transfer protocol,en,out_expansion,Операционна_система,dsgeorgiev90@yahoo.com
+GCOS,General Comprehensive Operating System,en,in_expansion,Операционна_система,dsgeorgiev90@yahoo.com
+GECOS,General Electric Comprehensive Operating Supervisor,en,in_expansion,Операционна_система,dsgeorgiev90@yahoo.com
+GNOME,GNU Network Object Model Environment,en,out_expansion,Операционна_система,dsgeorgiev90@yahoo.com
+GNU,GNU's Not Unix,en,out_expansion,Операционна_система,dsgeorgiev90@yahoo.com
+HP,Hewlett Packard,en,out_expansion,Операционна_система,dsgeorgiev90@yahoo.com
+IBM,International Business Machines Corporation,en,out_expansion,Операционна_система,dsgeorgiev90@yahoo.com
+KDE,K desktop environment,en,out_expansion,Операционна_система,dsgeorgiev90@yahoo.com
+MIT,Massachusetts Institute of Technology,en,out_expansion,Операционна_система,dsgeorgiev90@yahoo.com
+MS DOS,Microsoft Disk Operating System,en,out_expansion,Операционна_система,dsgeorgiev90@yahoo.com
+MTS,Michigan Terminal System,en,in_expansion,Операционна_система,dsgeorgiev90@yahoo.com
+MULTICS,Multiplexed Information and Computing Service,en,out_expansion,Операционна_система,dsgeorgiev90@yahoo.com
+MUSIC,Multi-User System for Interactive Computing,en,in_expansion,Операционна_система,dsgeorgiev90@yahoo.com
+NT,New Technology,en,out_expansion,Операционна_система,dsgeorgiev90@yahoo.com
+NTFS,New Technology File System,en,out_expansion,Операционна_система,dsgeorgiev90@yahoo.com
+ORVYL,Stanford Timesharing System,en,in_expansion,Операционна_система,dsgeorgiev90@yahoo.com
+OS,Operating System,en,out_expansion,Операционна_система,dsgeorgiev90@yahoo.com
+OS X,Mac OS,en,in_expansion,Операционна_система,dsgeorgiev90@yahoo.com
+PDA,Personal Digital Assistant,en,out_expansion,Операционна_система,dsgeorgiev90@yahoo.com
+RAM,Random access memory,en,out_expansion,Операционна_система,dsgeorgiev90@yahoo.com
+RISC,reduced instruction set computer,en,out_expansion,Операционна_система,dsgeorgiev90@yahoo.com
+ROM,Read Only Memory,en,out_expansion,Операционна_система,dsgeorgiev90@yahoo.com
+SSH,Secure Shell,en,out_expansion,Операционна_система,dsgeorgiev90@yahoo.com
+TCSEC,Trusted Computer System Evaluation Criteria,en,in_expansion,Операционна_система,dsgeorgiev90@yahoo.com
+TOS,Tape Operating System,en,in_expansion,Операционна_система,dsgeorgiev90@yahoo.com
+TSS,Time Sharing System,en,in_expansion,Операционна_система,dsgeorgiev90@yahoo.com
+UDF,User-defined function,en,out_expansion,Операционна_система,dsgeorgiev90@yahoo.com
+UNIX,UNiplexed Information Computing System,en,out_expansion,Операционна_система,dsgeorgiev90@yahoo.com
+USB,universal serial bus,en,out_expansion,Операционна_система,dsgeorgiev90@yahoo.com
+UX,User Experience,en,out_expansion,Операционна_система,dsgeorgiev90@yahoo.com
+VMS,Virtual Memory System,en,out_expansion,Операционна_система,dsgeorgiev90@yahoo.com
+XP,eXPerience,en,out_expansion,Операционна_система,dsgeorgiev90@yahoo.com
+iOS,iPhone Operating System,en,out_expansion,Операционна_система,dsgeorgiev90@yahoo.com
+ГПИ,Графичен Потребителски Интерфейс,en,in_expansion,Операционна_система,dsgeorgiev90@yahoo.com
+ОС,Операционна система,bg,in_expansion,Операционна_система,dsgeorgiev90@yahoo.com
+САЩ,Съединените Американски Щати,en,out_expansion,Операционна_система,dsgeorgiev90@yahoo.com
+г.,година,en,out_expansion,Операционна_система,dsgeorgiev90@yahoo.com
+др.,други,en,out_expansion,Операционна_система,dsgeorgiev90@yahoo.com
+т.е.,тоест,bg,out_expansion,Операционна_система,dsgeorgiev90@yahoo.com
+BSD,Berkeley Software Distribution,en,out_expansion,Операционна_система,petya.stoyanovaaaa@gmail.com
+OS,Operating System,en,out_expansion,Операционна_система,petya.stoyanovaaaa@gmail.com
+Windows NT,Windows New Technology,en,out_expansion,Операционна_система,petya.stoyanovaaaa@gmail.com
+ОС,Операционна система,bg,in_expansion,Операционна_система,petya.stoyanovaaaa@gmail.com
+напр.,например,bg,out_expansion,Операционна_система,petya.stoyanovaaaa@gmail.com
+г.,година,bg,out_expansion,Орден_на_Британската_империя,g.yordanov999@gmail.com
+г.,година,bg,out_expansion,Орден_на_Британската_империя,petya.stoyanovaaaa@gmail.com
+ВМРО,Вътрешна македонска революционна организация,bg,out_expansion,Остромила,dsgeorgiev90@yahoo.com
+НБКМ,"Народна библиотека ""Св. св. Кирил и Методий""",bg,out_expansion,Остромила,dsgeorgiev90@yahoo.com
+НБКМ-Сф,"Народна библиотека ""Св. св. Кирил и Методий"" София",bg,out_expansion,Остромила,dsgeorgiev90@yahoo.com
+Сф,София,bg,out_expansion,Остромила,dsgeorgiev90@yahoo.com
+Сф,София,bg,out_expansion,Остромила,contact@iliyasgeorgiev.com
+г.,година,bg,out_expansion,Остромила,dsgeorgiev90@yahoo.com
+гр.,град,bg,out_expansion,Остромила,dsgeorgiev90@yahoo.com
+ВМРО,Вътрешна македонска революционна организация,en,out_expansion,Остромила,georgitidorov4508@gmail.com
+НБКМ-Сф,"Народна библиотека ""Св. св. Кирил и Методий"" София",en,out_expansion,Остромила,georgitidorov4508@gmail.com
+Пд,Пловдив,en,out_expansion,Остромила,georgitidorov4508@gmail.com
+Пд,Пловдив,en,out_expansion,Остромила,contact@iliyasgeorgiev.com
+НБКМ,"Народна библиотека ""Св. св. Кирил и Методий""",bg,out_expansion,Остромила,contact@iliyasgeorgiev.com
+г.,година,en,out_expansion,Остромила,georgitidorov4508@gmail.com
+гр.,град,other language,out_expansion,Остромила,georgitidorov4508@gmail.com
+г.,година,bg,out_expansion,Открито_първенство_на_Франция,petya.stoyanovaaaa@gmail.com
+ВМОК,Върховен македоно-одрински комитет,bg,out_expansion,Пейо_Яворов,dsgeorgiev90@yahoo.com
+ВМОРО,Вътрешна македоно-одринска революционна организация,bg,out_expansion,Пейо_Яворов,dsgeorgiev90@yahoo.com
+г.,година,bg,out_expansion,Пейо_Яворов,dsgeorgiev90@yahoo.com
+д-р,доктор,bg,out_expansion,Пейо_Яворов,dsgeorgiev90@yahoo.com
+ВМОК,Върховен македоно-одрински комитет,bg,out_expansion,Пейо_Яворов,stella.vouteva@gmail.com
+ВМОРО,Вътрешна македоно-одринска революционна организация,bg,out_expansion,Пейо_Яворов,stella.vouteva@gmail.com
+г.,година,bg,out_expansion,Пейо_Яворов,stella.vouteva@gmail.com
+д-р,доктор,bg,out_expansion,Пейо_Яворов,stella.vouteva@gmail.com
+БВП,Брутен вътрешен продукт,bg,out_expansion,Планова_икономика,dsgeorgiev90@yahoo.com
+КНДР,Корейска Народно - Демократична Република,bg,out_expansion,Планова_икономика,dsgeorgiev90@yahoo.com
+СССР,Съюз на съветските социалистически републики,bg,out_expansion,Планова_икономика,dsgeorgiev90@yahoo.com
+т. нар.,така наречен,bg,out_expansion,Планова_икономика,dsgeorgiev90@yahoo.com
+БВП,Брутен вътрешен продукт,bg,out_expansion,Планова_икономика,violeta.todorovaaa@gmail.com
+КНДР,Корейска Народно - Демократична Република,bg,out_expansion,Планова_икономика,violeta.todorovaaa@gmail.com
+СССР,Съюз на съветските социалистически републики,bg,out_expansion,Планова_икономика,violeta.todorovaaa@gmail.com
+т. нар.,така наречен,bg,out_expansion,Планова_икономика,violeta.todorovaaa@gmail.com
+ВИХВП,Висш институт по хранително-вкусова промишленост,bg,out_expansion,Пловдивски_университет,dsgeorgiev90@yahoo.com
+ВПИ,Висш педагогически институт,bg,out_expansion,Пловдивски_университет,dsgeorgiev90@yahoo.com
+ПУ,Паисий Хилендарски,bg,in_expansion,Пловдивски_университет,dsgeorgiev90@yahoo.com
+бул.,булевард,bg,out_expansion,Пловдивски_университет,dsgeorgiev90@yahoo.com
+г-н,господин,bg,out_expansion,Пловдивски_университет,dsgeorgiev90@yahoo.com
+г.,година,bg,out_expansion,Пловдивски_университет,dsgeorgiev90@yahoo.com
+доц.,доцент,bg,out_expansion,Пловдивски_университет,dsgeorgiev90@yahoo.com
+ул.,улица,bg,out_expansion,Пловдивски_университет,dsgeorgiev90@yahoo.com
+ВИХВП,Висш институт по хранително-вкусова промишленост,bg,in_expansion,Пловдивски_университет,violeta.todorovaaa@gmail.com
+ВПИ,Висш педагогически институт,bg,out_expansion,Пловдивски_университет,violeta.todorovaaa@gmail.com
+ПУ,Паисий Хилендарски,bg,in_expansion,Пловдивски_университет,violeta.todorovaaa@gmail.com
+бул.,булевард,bg,out_expansion,Пловдивски_университет,violeta.todorovaaa@gmail.com
+г.,година,bg,out_expansion,Пловдивски_университет,violeta.todorovaaa@gmail.com
+доц.,доцент,bg,out_expansion,Пловдивски_университет,violeta.todorovaaa@gmail.com
+проф.,професор,bg,out_expansion,Пловдивски_университет,violeta.todorovaaa@gmail.com
+ул.,улица,bg,out_expansion,Пловдивски_университет,violeta.todorovaaa@gmail.com
+ЕООД,Еднолично дружество с ограничена отговорност,bg,out_expansion,Практикер,dsgeorgiev90@yahoo.com
+г.,година,bg,out_expansion,Практикер,dsgeorgiev90@yahoo.com
+м²,квадратен метър,bg,out_expansion,Практикер,dsgeorgiev90@yahoo.com
+млн.,милион,bg,out_expansion,Практикер,dsgeorgiev90@yahoo.com
+т.н.,така нататък,en,out_expansion,Практикер,dsgeorgiev90@yahoo.com
+AG,Aktiengesellschaft,none_of_above,out_expansion,Практикер,violeta.todorovaaa@gmail.com
+m²,squared metre,en,out_expansion,Практикер,violeta.todorovaaa@gmail.com
+ЕООД,Еднолично дружество с ограничена отговорност,bg,out_expansion,Практикер,violeta.todorovaaa@gmail.com
+г.,година,bg,out_expansion,Практикер,violeta.todorovaaa@gmail.com
+м²,квадратен метър,bg,out_expansion,Практикер,violeta.todorovaaa@gmail.com
+млн.,милион,bg,out_expansion,Практикер,violeta.todorovaaa@gmail.com
+т.н.,така нататък,bg,out_expansion,Практикер,violeta.todorovaaa@gmail.com
+г.,година,bg,out_expansion,Програмна_грешка,g.yordanov999@gmail.com
+г.,година,bg,out_expansion,Програмна_грешка,petya.stoyanovaaaa@gmail.com
+RCs,release candidates,en,in_expansion,Прототип,dsgeorgiev90@yahoo.com
+напр.,например,bg,out_expansion,Прототип,dsgeorgiev90@yahoo.com
+т.н.,така наречен,bg,out_expansion,Прототип,dsgeorgiev90@yahoo.com
+RCs,release candidates,en,in_expansion,Прототип,petya.stoyanovaaaa@gmail.com
+т.н.,така наречен,bg,out_expansion,Прототип,petya.stoyanovaaaa@gmail.com
+ААМР,Американската асоциация по маркетинг и реклама,bg,in_expansion,Реклама,georgitidorov4508@gmail.com
+ЕАРА,Европейската асоциация на рекламните агенции,bg,in_expansion,Реклама,georgitidorov4508@gmail.com
+ИПП,изключителна представа за продажба,bg,in_expansion,Реклама,georgitidorov4508@gmail.com
+т.н.,така нататък,bg,out_expansion,Реклама,georgitidorov4508@gmail.com
+ААМР,Американската асоциация по маркетинг и реклама,bg,in_expansion,Реклама,petya.stoyanovaaaa@gmail.com
+ЕАРА,Европейската асоциация на рекламните агенции,bg,in_expansion,Реклама,petya.stoyanovaaaa@gmail.com
+ИПП,изключителна представа за продажба,bg,in_expansion,Реклама,petya.stoyanovaaaa@gmail.com
+т.н.,така нататък,bg,out_expansion,Реклама,petya.stoyanovaaaa@gmail.com
+km,kilometer,en,out_expansion,Република_Кипър,georgitidorov4508@gmail.com
+ВКС,Върховен касационен съд,bg,out_expansion,Република_Кипър,georgitidorov4508@gmail.com
+ВС,Върховния съд,bg,out_expansion,Република_Кипър,georgitidorov4508@gmail.com
+ЕС,Европейски съюз,bg,out_expansion,Република_Кипър,georgitidorov4508@gmail.com
+ООН,Организация на обединените нации,bg,out_expansion,Република_Кипър,georgitidorov4508@gmail.com
+г.,година,bg,out_expansion,Република_Кипър,georgitidorov4508@gmail.com
+пр. Хр.,преди Христа,bg,out_expansion,Република_Кипър,georgitidorov4508@gmail.com
+km,kilometer,en,out_expansion,Република_Кипър,petya.stoyanovaaaa@gmail.com
+ВКС,Върховен касационен съд,bg,out_expansion,Република_Кипър,petya.stoyanovaaaa@gmail.com
+ВС,Върховния съд,bg,out_expansion,Република_Кипър,petya.stoyanovaaaa@gmail.com
+ЕС,Европейски съюз,bg,out_expansion,Република_Кипър,petya.stoyanovaaaa@gmail.com
+ООН,Организация на обединените нации,bg,out_expansion,Република_Кипър,petya.stoyanovaaaa@gmail.com
+г.,година,bg,out_expansion,Република_Кипър,petya.stoyanovaaaa@gmail.com
+пр. Хр.,преди Христа,bg,out_expansion,Република_Кипър,petya.stoyanovaaaa@gmail.com
+BAFTA,British Academy of Film and Television Arts,en,out_expansion,Робърт_Дауни_Джуниър,georgitidorov4508@gmail.com
+г.,година,bg,out_expansion,Робърт_Дауни_Джуниър,georgitidorov4508@gmail.com
+BAFTA,British Academy of Film and Television Arts,en,out_expansion,Робърт_Дауни_Джуниър,petya.stoyanovaaaa@gmail.com
+г.,година,bg,out_expansion,Робърт_Дауни_Джуниър,petya.stoyanovaaaa@gmail.com
+DVD,Digital Video Disc,en,out_expansion,Сам_вкъщи,georgitidorov4508@gmail.com
+VHS,Video Home System,en,out_expansion,Сам_вкъщи,georgitidorov4508@gmail.com
+САЩ,Съединени Американски Щати,bg,out_expansion,Сам_вкъщи,georgitidorov4508@gmail.com
+г.,година,bg,out_expansion,Сам_вкъщи,georgitidorov4508@gmail.com
+млн.,милиона,bg,out_expansion,Сам_вкъщи,georgitidorov4508@gmail.com
+VHS,Video Home System,en,out_expansion,Сам_вкъщи,petya.stoyanovaaaa@gmail.com
+САЩ,Съединени Американски Щати,bg,out_expansion,Сам_вкъщи,petya.stoyanovaaaa@gmail.com
+г.,година,bg,out_expansion,Сам_вкъщи,petya.stoyanovaaaa@gmail.com
+млн.,милиона,bg,out_expansion,Сам_вкъщи,petya.stoyanovaaaa@gmail.com
+A2K,Access To Knowledge,en,out_expansion,Световна_организация_за_интелектуална_собственост,georgitidorov4508@gmail.com
+IP,Intellectual Property,en,out_expansion,Световна_организация_за_интелектуална_собственост,georgitidorov4508@gmail.com
+PCT,Patent Cooperation Treaty,en,out_expansion,Световна_организация_за_интелектуална_собственост,georgitidorov4508@gmail.com
+WIPOnet,World Intellectual Property Organization network,en,out_expansion,Световна_организация_за_интелектуална_собственост,georgitidorov4508@gmail.com
+ООН,Организацията на обединените нации,bg,in_expansion,Световна_организация_за_интелектуална_собственост,georgitidorov4508@gmail.com
+СОИС,Световната организация за интелектуална собственост,bg,in_expansion,Световна_организация_за_интелектуална_собственост,georgitidorov4508@gmail.com
+СОИСнет,Световната организация за интелектуална собственост мрежа,bg,out_expansion,Световна_организация_за_интелектуална_собственост,georgitidorov4508@gmail.com
+г.,година,bg,out_expansion,Световна_организация_за_интелектуална_собственост,georgitidorov4508@gmail.com
+A2K,Access To Knowledge,en,out_expansion,Световна_организация_за_интелектуална_собственост,petya.stoyanovaaaa@gmail.com
+IP,Intellectual Property,en,out_expansion,Световна_организация_за_интелектуална_собственост,petya.stoyanovaaaa@gmail.com
+PCT,Patent Cooperation Treaty,en,out_expansion,Световна_организация_за_интелектуална_собственост,petya.stoyanovaaaa@gmail.com
+WIPOnet,World Intellectual Property Organization network,en,out_expansion,Световна_организация_за_интелектуална_собственост,petya.stoyanovaaaa@gmail.com
+ООН,Организацията на обединените нации,bg,in_expansion,Световна_организация_за_интелектуална_собственост,petya.stoyanovaaaa@gmail.com
+СОИС,Световната организация за интелектуална собственост,bg,in_expansion,Световна_организация_за_интелектуална_собственост,petya.stoyanovaaaa@gmail.com
+СОИСнет,Световната организация за интелектуална собственост мрежа,bg,out_expansion,Световна_организация_за_интелектуална_собственост,petya.stoyanovaaaa@gmail.com
+г.,година,bg,out_expansion,Световна_организация_за_интелектуална_собственост,petya.stoyanovaaaa@gmail.com
+USA,United States of America,other language,out_expansion,Силициева_долина,dsgeorgiev90@yahoo.com
+АРПАНЕТ,мрежа на Агенцията за напредничави изследователски проекти,bg,out_expansion,Силициева_долина,dsgeorgiev90@yahoo.com
+САЩ,Съединени Американски Щати,bg,in_expansion,Силициева_долина,dsgeorgiev90@yahoo.com
+г.,година,bg,out_expansion,Силициева_долина,dsgeorgiev90@yahoo.com
+AeA,American Economic Association,en,out_expansion,Силициева_долина,georgitidorov4508@gmail.com
+PARC,Palo Alto Research Center,en,out_expansion,Силициева_долина,georgitidorov4508@gmail.com
+USA,United States of America,en,out_expansion,Силициева_долина,georgitidorov4508@gmail.com
+АРПАНЕТ,мрежа на Агенцията за напредничави изследователски проекти,bg,out_expansion,Силициева_долина,georgitidorov4508@gmail.com
+САЩ,Съединени Американски Щати,bg,out_expansion,Силициева_долина,georgitidorov4508@gmail.com
+г.,година,bg,out_expansion,Силициева_долина,georgitidorov4508@gmail.com
+BAFTA,British Academy of Film and Television Arts,en,out_expansion,Скарлет_Йохансон,georgitidorov4508@gmail.com
+БАФТА,Британската академия за филмово и телевизионно изкуство,bg,out_expansion,Скарлет_Йохансон,georgitidorov4508@gmail.com
+САЩ,Съединени Американски Щати,bg,out_expansion,Скарлет_Йохансон,georgitidorov4508@gmail.com
+г.,година,bg,out_expansion,Скарлет_Йохансон,georgitidorov4508@gmail.com
+BAFTA,British Academy of Film and Television Arts,en,out_expansion,Скарлет_Йохансон,petya.stoyanovaaaa@gmail.com
+БАФТА,Британската академия за филмово и телевизионно изкуство,bg,out_expansion,Скарлет_Йохансон,petya.stoyanovaaaa@gmail.com
+САЩ,Съединени Американски Щати,bg,out_expansion,Скарлет_Йохансон,petya.stoyanovaaaa@gmail.com
+г.,година,bg,out_expansion,Скарлет_Йохансон,petya.stoyanovaaaa@gmail.com
+BSD,Berkeley Software Distribution,en,out_expansion,Софтуер_с_отворен_код,dsgeorgiev90@yahoo.com
+CVS,Concurrent Versions System,en,in_expansion,Софтуер_с_отворен_код,dsgeorgiev90@yahoo.com
+GIMP,GNU Image Manipulation Program,en,out_expansion,Софтуер_с_отворен_код,dsgeorgiev90@yahoo.com
+GNATS,Gnu Nyu Ada Translator Computing » Software,en,out_expansion,Софтуер_с_отворен_код,dsgeorgiev90@yahoo.com
+GNU,GNU's Not Unix,en,out_expansion,Софтуер_с_отворен_код,dsgeorgiev90@yahoo.com
+GPL,General Public License,en,out_expansion,Софтуер_с_отворен_код,dsgeorgiev90@yahoo.com
+Git,Global Information Tracker,en,out_expansion,Софтуер_с_отворен_код,dsgeorgiev90@yahoo.com
+IRC,Internet Relay Chat,en,out_expansion,Софтуер_с_отворен_код,dsgeorgiev90@yahoo.com
+MIT,Massachusetts Institute of Technology,en,in_expansion,Софтуер_с_отворен_код,dsgeorgiev90@yahoo.com
+MYSQL,My Structured Query Language,en,out_expansion,Софтуер_с_отворен_код,dsgeorgiev90@yahoo.com
+OSI,Open Systems Interconnection,en,out_expansion,Софтуер_с_отворен_код,dsgeorgiev90@yahoo.com
+SVN,Subversion,en,in_expansion,Софтуер_с_отворен_код,dsgeorgiev90@yahoo.com
+ИОК,Инициатива за отворен код,bg,in_expansion,Софтуер_с_отворен_код,dsgeorgiev90@yahoo.com
+САЩ,Съединени Американски Щати,bg,out_expansion,Софтуер_с_отворен_код,dsgeorgiev90@yahoo.com
+СОК,Софтуер с отворен код,bg,in_expansion,Софтуер_с_отворен_код,dsgeorgiev90@yahoo.com
+ССОК,Свободен Софтуер с Отворен Код,bg,in_expansion,Софтуер_с_отворен_код,dsgeorgiev90@yahoo.com
+ФСС,Фондацията за свободен софтуер,bg,in_expansion,Софтуер_с_отворен_код,dsgeorgiev90@yahoo.com
+г.,година,bg,out_expansion,Софтуер_с_отворен_код,dsgeorgiev90@yahoo.com
+напр.,например,bg,out_expansion,Софтуер_с_отворен_код,dsgeorgiev90@yahoo.com
+BSD,Berkeley Software Distribution,en,in_expansion,Софтуер_с_отворен_код,g.yordanov999@gmail.com
+CVS,Concurrent Versions System,en,in_expansion,Софтуер_с_отворен_код,g.yordanov999@gmail.com
+FOSS,Free and open-source software,en,in_expansion,Софтуер_с_отворен_код,g.yordanov999@gmail.com
+GPL,General Public License,en,out_expansion,Софтуер_с_отворен_код,g.yordanov999@gmail.com
+IBM,International Business Machines,en,out_expansion,Софтуер_с_отворен_код,g.yordanov999@gmail.com
+ID,Identity document,en,out_expansion,Софтуер_с_отворен_код,g.yordanov999@gmail.com
+MIT,Massachusetts Institute of Technology,en,in_expansion,Софтуер_с_отворен_код,g.yordanov999@gmail.com
+OSI,Open Systems Interconnection,en,out_expansion,Софтуер_с_отворен_код,g.yordanov999@gmail.com
+OSS,operational support system,en,out_expansion,Софтуер_с_отворен_код,g.yordanov999@gmail.com
+SVN,Subversion,en,in_expansion,Софтуер_с_отворен_код,g.yordanov999@gmail.com
+ИОК,Инициатива за отворен код,bg,in_expansion,Софтуер_с_отворен_код,g.yordanov999@gmail.com
+ОПЛ,Общ публичен лиценз на ГНУ,bg,in_expansion,Софтуер_с_отворен_код,g.yordanov999@gmail.com
+САЩ,Съединени Американски Щати,en,out_expansion,Софтуер_с_отворен_код,g.yordanov999@gmail.com
+СОК,Софтуер с отворен код,bg,in_expansion,Софтуер_с_отворен_код,g.yordanov999@gmail.com
+ССОК,Свободен Софтуер с Отворен Код,bg,in_expansion,Софтуер_с_отворен_код,g.yordanov999@gmail.com
+ФСС,Фондацията за свободен софтуер,bg,in_expansion,Софтуер_с_отворен_код,g.yordanov999@gmail.com
+вкл.,включително,bg,out_expansion,Софтуер_с_отворен_код,g.yordanov999@gmail.com
+г.,година,bg,out_expansion,Софтуер_с_отворен_код,g.yordanov999@gmail.com
+напр.,например,bg,out_expansion,Софтуер_с_отворен_код,g.yordanov999@gmail.com
+Хр.,Христа,bg,out_expansion,Старокаменна_епоха,dsgeorgiev90@yahoo.com
+г.,година,bg,out_expansion,Старокаменна_епоха,dsgeorgiev90@yahoo.com
+пр.,преди,bg,out_expansion,Старокаменна_епоха,dsgeorgiev90@yahoo.com
+г.,година,bg,out_expansion,Старокаменна_епоха,violeta.todorovaaa@gmail.com
+пр. Хр.,преди Христа,bg,out_expansion,Старокаменна_епоха,violeta.todorovaaa@gmail.com
+10-и,десети,bg,out_expansion,Стефка_Костадинова,dsgeorgiev90@yahoo.com
+7-и,седми,bg,out_expansion,Стефка_Костадинова,dsgeorgiev90@yahoo.com
+БОК,Български Олимпийски Комитет,bg,in_expansion,Стефка_Костадинова,dsgeorgiev90@yahoo.com
+г.,година,bg,out_expansion,Стефка_Костадинова,dsgeorgiev90@yahoo.com
+см,сантиметър,bg,out_expansion,Стефка_Костадинова,dsgeorgiev90@yahoo.com
+10-и,десети,bg,out_expansion,Стефка_Костадинова,violeta.todorovaaa@gmail.com
+7-и,седми,bg,out_expansion,Стефка_Костадинова,violeta.todorovaaa@gmail.com
+БОК,Български Олимпийски Комитет,bg,in_expansion,Стефка_Костадинова,violeta.todorovaaa@gmail.com
+г.,година,bg,out_expansion,Стефка_Костадинова,violeta.todorovaaa@gmail.com
+см,сантиметър,bg,out_expansion,Стефка_Костадинова,violeta.todorovaaa@gmail.com
+ФБР,Федерално бюро за разследване,bg,out_expansion,Стокхолмски_синдром,dsgeorgiev90@yahoo.com
+т.н.,така нататък,bg,out_expansion,Стокхолмски_синдром,dsgeorgiev90@yahoo.com
+ФБР,Федерално бюро за разследване,bg,out_expansion,Стокхолмски_синдром,violeta.todorovaaa@gmail.com
+т.н.,така нататък,bg,out_expansion,Стокхолмски_синдром,violeta.todorovaaa@gmail.com
+AIT,Alliance Internationale de Tourisme,none_of_above,out_expansion,Съюз_на_българските_автомобилисти,dsgeorgiev90@yahoo.com
+ARC,Automotive Research Center,en,out_expansion,Съюз_на_българските_автомобилисти,dsgeorgiev90@yahoo.com
+FIA,Fédération Internationale de l'Automobile,none_of_above,out_expansion,Съюз_на_българските_автомобилисти,dsgeorgiev90@yahoo.com
+FICC,"Fédération Internationale de Camping, Caravanning et Autocaravaning",none_of_above,out_expansion,Съюз_на_българските_автомобилисти,dsgeorgiev90@yahoo.com
+БАТК,Български автомобилен и туринг клуб,bg,in_expansion,Съюз_на_българските_автомобилисти,dsgeorgiev90@yahoo.com
+СБА,Съюзът на българските автомобилисти,bg,in_expansion,Съюз_на_българските_автомобилисти,dsgeorgiev90@yahoo.com
+AIT,Alliance Internationale de Tourisme,none_of_above,out_expansion,Съюз_на_българските_автомобилисти,g.yordanov999@gmail.com
+ARC,Automotive Research Center,en,out_expansion,Съюз_на_българските_автомобилисти,g.yordanov999@gmail.com
+FIA,Fédération Internationale de l'Automobile,none_of_above,out_expansion,Съюз_на_българските_автомобилисти,g.yordanov999@gmail.com
+FICC,"Fédération Internationale de Camping, Caravanning et Autocaravaning",none_of_above,out_expansion,Съюз_на_българските_автомобилисти,g.yordanov999@gmail.com
+БАТК,Български автомобилен и туринг клуб,en,in_expansion,Съюз_на_българските_автомобилисти,g.yordanov999@gmail.com
+СБА,Съюзът на българските автомобилисти,bg,in_expansion,Съюз_на_българските_автомобилисти,g.yordanov999@gmail.com
+СССР,Съюз на съветските социалистически републики,bg,out_expansion,ТАБСО,dsgeorgiev90@yahoo.com
+ТАБСО,Транспортно-авиационно българо-съветско общество,bg,in_expansion,ТАБСО,dsgeorgiev90@yahoo.com
+г.,година,bg,out_expansion,ТАБСО,dsgeorgiev90@yahoo.com
+млн.,милиона,bg,out_expansion,ТАБСО,dsgeorgiev90@yahoo.com
+хил.,хиляди,bg,out_expansion,ТАБСО,dsgeorgiev90@yahoo.com
+СССР,Съюз на съветските социалистически републики,bg,out_expansion,ТАБСО,violeta.todorovaaa@gmail.com
+ТАБСО,Транспортно-авиационно българо-съветско общество,bg,in_expansion,ТАБСО,violeta.todorovaaa@gmail.com
+г.,година,bg,out_expansion,ТАБСО,violeta.todorovaaa@gmail.com
+млн.,милиона,bg,out_expansion,ТАБСО,violeta.todorovaaa@gmail.com
+хил.,хиляди,bg,out_expansion,ТАБСО,violeta.todorovaaa@gmail.com
+IBM,International Business Machines,en,out_expansion,Табулираща_машина,petya.stoyanovaaaa@gmail.com
+г.,година,bg,out_expansion,Табулираща_машина,petya.stoyanovaaaa@gmail.com
+т.н.,така нататък,bg,out_expansion,Табулираща_машина,petya.stoyanovaaaa@gmail.com
+IBM,International Business Machines,en,out_expansion,Табулираща_машина,violeta.todorovaaa@gmail.com
+г.,година,bg,out_expansion,Табулираща_машина,violeta.todorovaaa@gmail.com
+т.н.,така нататък,bg,out_expansion,Табулираща_машина,violeta.todorovaaa@gmail.com
+FET,field-effect transistor,en,out_expansion,Транзистор,dsgeorgiev90@yahoo.com
+MOSFET,metal-oxide-semiconductor field-effect transistor,en,out_expansion,Транзистор,dsgeorgiev90@yahoo.com
+NPN,"Negative, Positive, Negative",en,out_expansion,Транзистор,dsgeorgiev90@yahoo.com
+PNP,"Positive, Negative, Positive",en,out_expansion,Транзистор,dsgeorgiev90@yahoo.com
+МОП,метал-оксид-полупроводник,bg,out_expansion,Транзистор,dsgeorgiev90@yahoo.com
+FET,field-effect transistor,en,out_expansion,Транзистор,petya.stoyanovaaaa@gmail.com
+MOSFET,metal-oxide-semiconductor field-effect transistor,en,out_expansion,Транзистор,petya.stoyanovaaaa@gmail.com
+NPN,"Negative, Positive, Negative",en,out_expansion,Транзистор,petya.stoyanovaaaa@gmail.com
+PNP,"Positive, Negative, Positive",en,out_expansion,Транзистор,petya.stoyanovaaaa@gmail.com
+W,Watt,en,out_expansion,Транзистор,petya.stoyanovaaaa@gmail.com
+МОП,метал-оксид-полупроводник,bg,out_expansion,Транзистор,petya.stoyanovaaaa@gmail.com
+др.,други,bg,out_expansion,Транзистор,petya.stoyanovaaaa@gmail.com
+т.е.,тоест,bg,out_expansion,Транзистор,petya.stoyanovaaaa@gmail.com
+т.нар.,така нарачените,bg,out_expansion,Транзистор,petya.stoyanovaaaa@gmail.com
+.3ds,3D Studio,en,out_expansion,Тримерен_печат,dsgeorgiev90@yahoo.com
+.dae,Digital Asset Exchange File Format,en,out_expansion,Тримерен_печат,dsgeorgiev90@yahoo.com
+.skp,SketchUp,en,out_expansion,Тримерен_печат,dsgeorgiev90@yahoo.com
+3D,three-dimensional,en,out_expansion,Тримерен_печат,dsgeorgiev90@yahoo.com
+AEC,Architecture Engineering and Construction,en,out_expansion,Тримерен_печат,dsgeorgiev90@yahoo.com
+CAD,computer aided design,en,in_expansion,Тримерен_печат,dsgeorgiev90@yahoo.com
+CNC,Computer Numerical Control,en,out_expansion,Тримерен_печат,dsgeorgiev90@yahoo.com
+FDM,Fused Deposition Modeling,en,out_expansion,Тримерен_печат,dsgeorgiev90@yahoo.com
+STL,,en,out_expansion,Тримерен_печат,dsgeorgiev90@yahoo.com
+АП,адитивно производство,other language,in_expansion,Тримерен_печат,dsgeorgiev90@yahoo.com
+г.,година,bg,out_expansion,Тримерен_печат,dsgeorgiev90@yahoo.com
+щ.д,щатски долата,bg,out_expansion,Тримерен_печат,dsgeorgiev90@yahoo.com
+3-D,three-dimensional,en,out_expansion,Тримерен_печат,georgitidorov4508@gmail.com
+AEC,"Architecture, Engineering, and Construction",en,out_expansion,Тримерен_печат,georgitidorov4508@gmail.com
+BAAM,Big Area Additive Manufacturing,en,in_expansion,Тримерен_печат,georgitidorov4508@gmail.com
+CAD,Computer-aided design,en,out_expansion,Тримерен_печат,georgitidorov4508@gmail.com
+CNC,Computerized Numerical Control,en,out_expansion,Тримерен_печат,georgitidorov4508@gmail.com
+DPI,Dots per inch,en,out_expansion,Тримерен_печат,georgitidorov4508@gmail.com
+STL,Standard Triangle Language,en,out_expansion,Тримерен_печат,georgitidorov4508@gmail.com
+µm,micrometer,en,out_expansion,Тримерен_печат,georgitidorov4508@gmail.com
+АП,адитивно производство,bg,in_expansion,Тримерен_печат,georgitidorov4508@gmail.com
+г.,година,bg,out_expansion,Тримерен_печат,georgitidorov4508@gmail.com
+млн.,милион,bg,out_expansion,Тримерен_печат,georgitidorov4508@gmail.com
+CGI,Computer-generated imagery,en,out_expansion,Уеб_сървър,g.yordanov999@gmail.com
+GIF,Graphics Interchange Format,en,out_expansion,Уеб_сървър,g.yordanov999@gmail.com
+HTML,HyperText Markup Language,en,out_expansion,Уеб_сървър,g.yordanov999@gmail.com
+HTTP,Hypertext Transfer Protocol,en,out_expansion,Уеб_сървър,g.yordanov999@gmail.com
+JPEG,Joint Photographic Experts Group,en,out_expansion,Уеб_сървър,g.yordanov999@gmail.com
+PNG,Portable Network Graphics,en,out_expansion,Уеб_сървър,g.yordanov999@gmail.com
+XML,Extensible Markup Language,en,out_expansion,Уеб_сървър,g.yordanov999@gmail.com
+т. нар.,така наречен,bg,out_expansion,Уеб_сървър,g.yordanov999@gmail.com
+т.е.,тоест,bg,out_expansion,Уеб_сървър,g.yordanov999@gmail.com
+CGI,Computer-Generated Imagery,en,out_expansion,Уеб_сървър,petya.stoyanovaaaa@gmail.com
+GIF,Graphics Interchange Format,en,out_expansion,Уеб_сървър,petya.stoyanovaaaa@gmail.com
+HTML,HyperText Markup Language,en,out_expansion,Уеб_сървър,petya.stoyanovaaaa@gmail.com
+HTTP,Hypertext Transfer Protocol,en,out_expansion,Уеб_сървър,petya.stoyanovaaaa@gmail.com
+JPEG,Joint Photographic Experts Group,en,out_expansion,Уеб_сървър,petya.stoyanovaaaa@gmail.com
+PNG,Portable Network Graphics,en,out_expansion,Уеб_сървър,petya.stoyanovaaaa@gmail.com
+XML,Extensible Markup Language,en,out_expansion,Уеб_сървър,petya.stoyanovaaaa@gmail.com
+т. нар.,така наречен,bg,out_expansion,Уеб_сървър,petya.stoyanovaaaa@gmail.com
+CSS,Cascading Style Sheets,en,out_expansion,Уебстраница,g.yordanov999@gmail.com
+HTML,HyperText Markup Language,en,out_expansion,Уебстраница,g.yordanov999@gmail.com
+HTTP,Hypertext Transfer Protocol,en,out_expansion,Уебстраница,g.yordanov999@gmail.com
+URL,Uniform Resource Locator,en,out_expansion,Уебстраница,g.yordanov999@gmail.com
+XHTML,Extensible HyperText Markup Language,en,out_expansion,Уебстраница,g.yordanov999@gmail.com
+вкл.,включително,bg,out_expansion,Уебстраница,g.yordanov999@gmail.com
+др.,друг,bg,out_expansion,Уебстраница,g.yordanov999@gmail.com
+CSS,Cascading Style Sheets,en,out_expansion,Уебстраница,petya.stoyanovaaaa@gmail.com
+HTML,HyperText Markup Language,en,out_expansion,Уебстраница,petya.stoyanovaaaa@gmail.com
+HTTP,Hypertext Transfer Protocol,en,out_expansion,Уебстраница,petya.stoyanovaaaa@gmail.com
+URL,Uniform Resource Locator,en,out_expansion,Уебстраница,petya.stoyanovaaaa@gmail.com
+XHTML,Extensible HyperText Markup Language,en,out_expansion,Уебстраница,petya.stoyanovaaaa@gmail.com
+ЕАФ,Европейската асоциация на фестивалите,bg,in_expansion,Фестивал,g.yordanov999@gmail.com
+ЕАФ,Европейската асоциация на фестивалите,bg,in_expansion,Фестивал,georgitidorov4508@gmail.com
+КЕШ,Купата на европейските шампиони,bg,out_expansion,ФК_Ювентус,g.yordanov999@gmail.com
+САЩ,Съединени Американски Щати,bg,out_expansion,ФК_Ювентус,g.yordanov999@gmail.com
+УЕФА,Съюзът на европейските футболни асоциации,bg,out_expansion,ФК_Ювентус,g.yordanov999@gmail.com
+ФК,Футболен клуб,bg,out_expansion,ФК_Ювентус,g.yordanov999@gmail.com
+г.,година,bg,out_expansion,ФК_Ювентус,g.yordanov999@gmail.com
+млн,милиона,bg,out_expansion,ФК_Ювентус,g.yordanov999@gmail.com
+УЕФА,Съюзът на европейските футболни асоциации,bg,out_expansion,ФК_Ювентус,violeta.todorovaaa@gmail.com
+ФК,Футболен клуб,bg,out_expansion,ФК_Ювентус,violeta.todorovaaa@gmail.com
+бул.,булевард,bg,out_expansion,ФК_Ювентус,violeta.todorovaaa@gmail.com
+г.,година,bg,out_expansion,ФК_Ювентус,violeta.todorovaaa@gmail.com
+млн.,милион,bg,out_expansion,ФК_Ювентус,violeta.todorovaaa@gmail.com
+ABS,Anti-lock braking system,en,out_expansion,Формула_1,g.yordanov999@gmail.com
+TCS,Traction control system,en,out_expansion,Формула_1,g.yordanov999@gmail.com
+km,kilometer,en,out_expansion,Формула_1,g.yordanov999@gmail.com
+km/h,kilometers per hour,en,out_expansion,Формула_1,g.yordanov999@gmail.com
+mm,millimeter,en,out_expansion,Формула_1,g.yordanov999@gmail.com
+НБО,най-бърза обиколка,bg,out_expansion,Формула_1,g.yordanov999@gmail.com
+САЩ,Съединени Американски Щати,bg,out_expansion,Формула_1,g.yordanov999@gmail.com
+ФИА,Международна автомобилна федерация,bg,out_expansion,Формула_1,g.yordanov999@gmail.com
+г.,година,bg,out_expansion,Формула_1,g.yordanov999@gmail.com
+млн.,милиона,bg,out_expansion,Формула_1,g.yordanov999@gmail.com
+т.,точка,bg,out_expansion,Формула_1,g.yordanov999@gmail.com
+т.н.,така нататък,bg,out_expansion,Формула_1,g.yordanov999@gmail.com
+ABS,Anti-lock braking system,en,out_expansion,Формула_1,violeta.todorovaaa@gmail.com
+TCS,Traction control system,en,out_expansion,Формула_1,violeta.todorovaaa@gmail.com
+km,kilometer,en,out_expansion,Формула_1,violeta.todorovaaa@gmail.com
+km/h,kilometers per hour,en,out_expansion,Формула_1,violeta.todorovaaa@gmail.com
+mm,milimeters,en,out_expansion,Формула_1,violeta.todorovaaa@gmail.com
+НБО,най-бърза обиколка,bg,out_expansion,Формула_1,violeta.todorovaaa@gmail.com
+САЩ,Съединени Американски Щати,bg,out_expansion,Формула_1,violeta.todorovaaa@gmail.com
+ФИА,Международна автомобилна федерация,bg,out_expansion,Формула_1,violeta.todorovaaa@gmail.com
+г.,година,bg,out_expansion,Формула_1,violeta.todorovaaa@gmail.com
+млн.,милиона,bg,out_expansion,Формула_1,violeta.todorovaaa@gmail.com
+об/мин,оборота на минута,bg,out_expansion,Формула_1,violeta.todorovaaa@gmail.com
+т.,точка,bg,out_expansion,Формула_1,violeta.todorovaaa@gmail.com
+г.,година,bg,out_expansion,Хановер,dsgeorgiev90@yahoo.com
+г.,година,bg,out_expansion,Хановер,violeta.todorovaaa@gmail.com
+НХЛ,Национална Хокейна Лига,bg,out_expansion,Хокей_на_лед,tachevy001@gmail.com
+САЩ,Съединените Американски Щати,bg,in_expansion,Хокей_на_лед,tachevy001@gmail.com
+НХЛ,Националната хокейна лига на САЩ и Канада,bg,in_expansion,Хокей_на_лед,violeta.todorovaaa@gmail.com
+г.,година,bg,out_expansion,Хокей_на_лед,violeta.todorovaaa@gmail.com
+км,километър,bg,out_expansion,Хокей_на_лед,violeta.todorovaaa@gmail.com
+м,метър,bg,out_expansion,Хокей_на_лед,violeta.todorovaaa@gmail.com
+мм,милиметър,bg,out_expansion,Хокей_на_лед,violeta.todorovaaa@gmail.com
+см,сантиметър,bg,out_expansion,Хокей_на_лед,violeta.todorovaaa@gmail.com
+HBO,Home Box Office,en,in_expansion,Хоум_Бокс_Офис,dsgeorgiev90@yahoo.com
+HD,High-definition,en,out_expansion,Хоум_Бокс_Офис,dsgeorgiev90@yahoo.com
+MMDS,Multichannel Multipoint Distribution Service,en,out_expansion,Хоум_Бокс_Офис,dsgeorgiev90@yahoo.com
+САЩ,Съединените Американски Щати,bg,out_expansion,Хоум_Бокс_Офис,dsgeorgiev90@yahoo.com
+ТВ,Телевизия,bg,out_expansion,Хоум_Бокс_Офис,dsgeorgiev90@yahoo.com
+г.,година,bg,out_expansion,Хоум_Бокс_Офис,dsgeorgiev90@yahoo.com
+млн.,милион,bg,out_expansion,Хоум_Бокс_Офис,dsgeorgiev90@yahoo.com
+HBO,Home Box Office,other language,in_expansion,Хоум_Бокс_Офис,georgitidorov4508@gmail.com
+HD,high-definition,en,out_expansion,Хоум_Бокс_Офис,georgitidorov4508@gmail.com
+MMDS,Multi Media Distribution Systems,en,out_expansion,Хоум_Бокс_Офис,georgitidorov4508@gmail.com
+TV,Television,en,out_expansion,Хоум_Бокс_Офис,georgitidorov4508@gmail.com
+САЩ,Съединени Американски Щати,bg,out_expansion,Хоум_Бокс_Офис,georgitidorov4508@gmail.com
+ТВ,телевизор,bg,out_expansion,Хоум_Бокс_Офис,georgitidorov4508@gmail.com
+г.,година,bg,out_expansion,Хоум_Бокс_Офис,georgitidorov4508@gmail.com
+млн.,милион,bg,out_expansion,Хоум_Бокс_Офис,georgitidorov4508@gmail.com
+БРЦК,Българския революционен централен комитет,bg,in_expansion,Христо_Ботев,dsgeorgiev90@yahoo.com
+г.,година,bg,out_expansion,Христо_Ботев,dsgeorgiev90@yahoo.com
+др.,други,bg,out_expansion,Христо_Ботев,dsgeorgiev90@yahoo.com
+БРЦК,Български революционен централен комитет,bg,in_expansion,Христо_Ботев,stella.vouteva@gmail.com
+г.,година,bg,out_expansion,Христо_Ботев,stella.vouteva@gmail.com
+др.,други,bg,out_expansion,Христо_Ботев,stella.vouteva@gmail.com
+г.,година,bg,out_expansion,Хълк,georgitidorov4508@gmail.com
+г.,година,bg,out_expansion,Хълк,petya.stoyanovaaaa@gmail.com
+km,kilometer,en,out_expansion,Хърватия,g.yordanov999@gmail.com
+km2,Square kilometer,en,out_expansion,Хърватия,g.yordanov999@gmail.com
+km²,Square kilometer,en,out_expansion,Хърватия,g.yordanov999@gmail.com
+°C,Celsius,en,out_expansion,Хърватия,g.yordanov999@gmail.com
+НАТО,Организацията на Северноатлантическия договор,bg,out_expansion,Хърватия,g.yordanov999@gmail.com
+ООН,Организацията на обединените нации,bg,in_expansion,Хърватия,g.yordanov999@gmail.com
+СХС,"сърби, хървати и словенци",bg,in_expansion,Хърватия,g.yordanov999@gmail.com
+ЦЕФТА,Централноевропейско споразумение за свободна търговия,bg,out_expansion,Хърватия,g.yordanov999@gmail.com
+г.,година,bg,out_expansion,Хърватия,g.yordanov999@gmail.com
+km,kilometer,en,out_expansion,Хърватия,georgitidorov4508@gmail.com
+km2,Square kilometer,en,out_expansion,Хърватия,georgitidorov4508@gmail.com
+km²,Square kilometer,en,out_expansion,Хърватия,georgitidorov4508@gmail.com
+°C,Celsius,en,out_expansion,Хърватия,georgitidorov4508@gmail.com
+НАТО,Организацията на Северноатлантическия договор,bg,out_expansion,Хърватия,georgitidorov4508@gmail.com
+ООН,Организацията на обединените нации,bg,in_expansion,Хърватия,georgitidorov4508@gmail.com
+СХС,"сърби, хървати и словенци",bg,in_expansion,Хърватия,georgitidorov4508@gmail.com
+ЦЕФТА,Централноевропейско споразумение за свободна търговия,bg,out_expansion,Хърватия,georgitidorov4508@gmail.com
+г.,година,bg,out_expansion,Хърватия,georgitidorov4508@gmail.com
+SiO2,Silicon dioxide,en,out_expansion,Чип,dsgeorgiev90@yahoo.com
+напр.,например,bg,out_expansion,Чип,dsgeorgiev90@yahoo.com
+напр.,например,bg,out_expansion,Чип,georgitidorov4508@gmail.com
+AG,Aktiengesellschaft,none_of_above,in_expansion,Шампионска_лига_на_УЕФА,dsgeorgiev90@yahoo.com
+ECC,European Champions' Cup,en,out_expansion,Шампионска_лига_на_УЕФА,dsgeorgiev90@yahoo.com
+КЕШ,Купа на европейските шампиони,bg,in_expansion,Шампионска_лига_на_УЕФА,dsgeorgiev90@yahoo.com
+УЕФА,Съюзът на европейските футболни асоциации,bg,out_expansion,Шампионска_лига_на_УЕФА,dsgeorgiev90@yahoo.com
+г.,година,bg,out_expansion,Шампионска_лига_на_УЕФА,dsgeorgiev90@yahoo.com
+AG,Aktiengesellschaft,en,out_expansion,Шампионска_лига_на_УЕФА,violeta.todorovaaa@gmail.com
+ECC,European Champions' Cup,en,in_expansion,Шампионска_лига_на_УЕФА,violeta.todorovaaa@gmail.com
+КЕШ,Купа на европейските шампиони,bg,in_expansion,Шампионска_лига_на_УЕФА,violeta.todorovaaa@gmail.com
+УЕФА,Съюзът на европейските футболни асоциации,bg,in_expansion,Шампионска_лига_на_УЕФА,violeta.todorovaaa@gmail.com
+г.,година,bg,out_expansion,Шампионска_лига_на_УЕФА,violeta.todorovaaa@gmail.com
+т.е.,тоест,bg,out_expansion,JavaScript,contact@iliyasgeorgiev.com
+VBScript,Microsoft Visual Basic Scripting Edition,en,out_expansion,JavaScript,contact@iliyasgeorgiev.com
+САЩ,Съединени американски щати,bg,out_expansion,JavaScript,contact@iliyasgeorgiev.com
+САЩ,Съединени американски щати,bg,out_expansion,UML,contact@iliyasgeorgiev.com
+IBM,International Business Machines Corporation,en,out_expansion,UML,contact@iliyasgeorgiev.com
+САЩ,Съединените Американски Щати,bg,out_expansion,Американска_психологична_асоциация,contact@iliyasgeorgiev.com
+ДСК,Държавна спестовна каса,bg,out_expansion,Банкова_консолидационна_компания,contact@iliyasgeorgiev.com
+млрд.,милиард,bg,out_expansion,Банкова_консолидационна_компания,contact@iliyasgeorgiev.com
+акад.,академик,bg,out_expansion,Би_Би_Си,contact@iliyasgeorgiev.com
+др.,други,bg,out_expansion,Би_Би_Си,contact@iliyasgeorgiev.com
+FIBT,Fédération internationale de bobsleigh et de tobogganing,en,out_expansion,Бобслей,contact@iliyasgeorgiev.com
+ГДР,Германска демократична република,bg,out_expansion,Бобслей,contact@iliyasgeorgiev.com
+кг.,килограм,bg,out_expansion,Бобслей,contact@iliyasgeorgiev.com
+ДНК,Дезоксирибонуклеинова киселина,bg,out_expansion,Ботаника,contact@iliyasgeorgiev.com
+др.,други,bg,out_expansion,Ботаника,contact@iliyasgeorgiev.com
+ДЦК,Държавни Ценни Книжа,bg,out_expansion,Българска_народна_банка,contact@iliyasgeorgiev.com
+БСДП,Българската социалдемократическа партия,bg,out_expansion,Българска_социалистическа_партия,contact@iliyasgeorgiev.com
+ген.,генерал,bg,out_expansion,Българска_социалистическа_партия,contact@iliyasgeorgiev.com
+отд.,отделение,bg,out_expansion,Васил_Левски,contact@iliyasgeorgiev.com
+cm,centimeter,en,out_expansion,Волейбол,contact@iliyasgeorgiev.com
+m,meter,en,out_expansion,Волейбол,contact@iliyasgeorgiev.com
+АС-23,Атлетик Слава 23,bg,out_expansion,Волейбол,contact@iliyasgeorgiev.com
+г.,година,bg,out_expansion,Волейбол,contact@iliyasgeorgiev.com
+дн.,днес,bg,out_expansion,Волейбол,contact@iliyasgeorgiev.com
+др.,други,bg,out_expansion,Волейбол,contact@iliyasgeorgiev.com
+т.е.,тоест,bg,out_expansion,Волейбол,contact@iliyasgeorgiev.com
+с.г.,същата година,bg,out_expansion,Временно_руско_управление,contact@iliyasgeorgiev.com
+г-н,господин,bg,out_expansion,Дисниленд,contact@iliyasgeorgiev.com
+САЩ,Съединените Американски Щати,bg,out_expansion,Дисниленд,contact@iliyasgeorgiev.com
+I/O,Input/Оutput,en,out_expansion,Драйвер,contact@iliyasgeorgiev.com
+OS,Operating system,en,out_expansion,Драйвер,contact@iliyasgeorgiev.com
+вкл.,включително,bg,out_expansion,Държавен_съвет_на_Народна_република_България,contact@iliyasgeorgiev.com
+зам.,заместник,bg,out_expansion,Държавен_съвет_на_Народна_република_България,contact@iliyasgeorgiev.com
+т.н.,така нататък,bg,out_expansion,Европейска_централна_банка,contact@iliyasgeorgiev.com
+ч.,часа,bg,out_expansion,Иван_Славков,contact@iliyasgeorgiev.com
+3-D,three-dimensional,bg,out_expansion,Изобразително_изкуство,contact@iliyasgeorgiev.com
+Хр.,Христа,bg,out_expansion,Изобразително_изкуство,contact@iliyasgeorgiev.com
+др.,други,bg,out_expansion,Изобразително_изкуство,contact@iliyasgeorgiev.com
+пр.,преди,bg,out_expansion,Изобразително_изкуство,contact@iliyasgeorgiev.com
+пр. Хр.,преди Христа,bg,out_expansion,Изобразително_изкуство,contact@iliyasgeorgiev.com
+INTC,Intel Corporation Common Stock,en,out_expansion,Интел,contact@iliyasgeorgiev.com
+км,километра,bg,out_expansion,Княжество_България,contact@iliyasgeorgiev.com
+км²,квадратни километри,bg,out_expansion,Княжество_България,contact@iliyasgeorgiev.com
+ДПС,Движение за права и свободи,bg,out_expansion,Конституционен_съд_на_България,contact@iliyasgeorgiev.com
+т. нар,така наречен,bg,out_expansion,Конституционен_съд_на_България,contact@iliyasgeorgiev.com
+г.,година,bg,out_expansion,Лека_атлетика,contact@iliyasgeorgiev.com
+км,километър,bg,out_expansion,Лека_атлетика,contact@iliyasgeorgiev.com
+пр.н.е.,преди новата ера,bg,out_expansion,Лека_атлетика,contact@iliyasgeorgiev.com
+т.е.,тоест,bg,out_expansion,Лека_атлетика,contact@iliyasgeorgiev.com
+проф.,Професор,bg,out_expansion,Метро_Груп,contact@iliyasgeorgiev.com
+т.е.,тоест,bg,out_expansion,Метро_Груп,contact@iliyasgeorgiev.com
+проф.,професор,bg,out_expansion,Микроелектроника,contact@iliyasgeorgiev.com
+хил.,хиляди,bg,out_expansion,Микроелектроника,contact@iliyasgeorgiev.com
+PDP,Programmed Data Processor,en,out_expansion,Микропроцесор,contact@iliyasgeorgiev.com
+МП,мулти процесор,bg,out_expansion,Микропроцесор,contact@iliyasgeorgiev.com
+др.,други,bg,out_expansion,Микропроцесор,contact@iliyasgeorgiev.com
+напр.,например,bg,out_expansion,Микропроцесор,contact@iliyasgeorgiev.com
+т.е.,тоест,bg,out_expansion,Микропроцесор,contact@iliyasgeorgiev.com
+,Not a number,en,out_expansion,Микропроцесор,contact@iliyasgeorgiev.com
+г.,година,bg,out_expansion,Мила_Кунис,contact@iliyasgeorgiev.com
+Wi-Fi,wireless fidelity,en,out_expansion,Мобилно_устройство,contact@iliyasgeorgiev.com
+англ.,английски,bg,out_expansion,Народно_събрание,contact@iliyasgeorgiev.com
+млн.,милион,bg,out_expansion,Нетфликс,contact@iliyasgeorgiev.com
+др.,други,bg,out_expansion,Октомврийска_революция,contact@iliyasgeorgiev.com
+др.п.,други подобни,bg,out_expansion,Октомврийска_революция,contact@iliyasgeorgiev.com
+т.е.,тоест,bg,out_expansion,Операционна_система,contact@iliyasgeorgiev.com
+,Not a number,en,out_expansion,Операционна_система,contact@iliyasgeorgiev.com
+ACP,Airline Control Program,en,in_expansion,Операционна_система,contact@iliyasgeorgiev.com
+AIX,Australian Securities Exchange,en,out_expansion,Операционна_система,contact@iliyasgeorgiev.com
+ARPANET,Advanced Research Projects Agency Network,en,out_expansion,Операционна_система,contact@iliyasgeorgiev.com
+BCPL,Basic Combined Programming Language,en,out_expansion,Операционна_система,contact@iliyasgeorgiev.com
+BDS,Berkeley Standard Distribution,en,out_expansion,Операционна_система,contact@iliyasgeorgiev.com
+BIOS,Basic Input/Output System,en,out_expansion,Операционна_система,contact@iliyasgeorgiev.com
+BOS,Basic Operating System,en,out_expansion,Операционна_система,contact@iliyasgeorgiev.com
+CD,compact disc,en,out_expansion,Операционна_система,contact@iliyasgeorgiev.com
+CE,Embedded Compact,en,out_expansion,Операционна_система,contact@iliyasgeorgiev.com
+DEC,Digital Equipment Corporation,en,out_expansion,Операционна_система,contact@iliyasgeorgiev.com
+DOS,Disk Operating System,en,in_expansion,Операционна_система,contact@iliyasgeorgiev.com
+DVD,digital versatile disc,en,out_expansion,Операционна_система,contact@iliyasgeorgiev.com
+EFI,Extensible Firmware Interface,en,out_expansion,Операционна_система,contact@iliyasgeorgiev.com
+FTP,file transfer protocol,en,out_expansion,Операционна_система,contact@iliyasgeorgiev.com
+GCOS,General Comprehensive Operating System,en,in_expansion,Операционна_система,contact@iliyasgeorgiev.com
+GECOS,General Electric Comprehensive Operating Supervisor,en,in_expansion,Операционна_система,contact@iliyasgeorgiev.com
+GNOME,GNU Network Object Model Environment,en,out_expansion,Операционна_система,contact@iliyasgeorgiev.com
+GNU,GNU's Not Unix,en,out_expansion,Операционна_система,contact@iliyasgeorgiev.com
+HP,Hewlett Packard,en,out_expansion,Операционна_система,contact@iliyasgeorgiev.com
+IBM,International Business Machines Corporation,en,out_expansion,Операционна_система,contact@iliyasgeorgiev.com
+KDE,K desktop environment,en,out_expansion,Операционна_система,contact@iliyasgeorgiev.com
+MIT,Massachusetts Institute of Technology,en,out_expansion,Операционна_система,contact@iliyasgeorgiev.com
+MS DOS,Microsoft Disk Operating System,en,out_expansion,Операционна_система,contact@iliyasgeorgiev.com
+MTS,Michigan Terminal System,en,in_expansion,Операционна_система,contact@iliyasgeorgiev.com
+MULTICS,Multiplexed Information and Computing Service,en,out_expansion,Операционна_система,contact@iliyasgeorgiev.com
+MUSIC,Multi-User System for Interactive Computing,en,in_expansion,Операционна_система,contact@iliyasgeorgiev.com
+NT,New Technology,en,out_expansion,Операционна_система,contact@iliyasgeorgiev.com
+NTFS,New Technology File System,en,out_expansion,Операционна_система,contact@iliyasgeorgiev.com
+ORVYL,Stanford Timesharing System,en,in_expansion,Операционна_система,contact@iliyasgeorgiev.com
+OS X,Mac OS,en,in_expansion,Операционна_система,contact@iliyasgeorgiev.com
+PDA,Personal Digital Assistant,en,out_expansion,Операционна_система,contact@iliyasgeorgiev.com
+RAM,Random access memory,en,out_expansion,Операционна_система,contact@iliyasgeorgiev.com
+RISC,reduced instruction set computer,en,out_expansion,Операционна_система,contact@iliyasgeorgiev.com
+ROM,Read Only Memory,en,out_expansion,Операционна_система,contact@iliyasgeorgiev.com
+SSH,Secure Shell,en,out_expansion,Операционна_система,contact@iliyasgeorgiev.com
+TCSEC,Trusted Computer System Evaluation Criteria,en,in_expansion,Операционна_система,contact@iliyasgeorgiev.com
+TOS,Tape Operating System,en,in_expansion,Операционна_система,contact@iliyasgeorgiev.com
+TSS,Time Sharing System,en,in_expansion,Операционна_система,contact@iliyasgeorgiev.com
+UDF,User-defined function,en,out_expansion,Операционна_система,contact@iliyasgeorgiev.com
+UNIX,UNiplexed Information Computing System,en,out_expansion,Операционна_система,contact@iliyasgeorgiev.com
+USB,universal serial bus,en,out_expansion,Операционна_система,contact@iliyasgeorgiev.com
+UX,User Experience,en,out_expansion,Операционна_система,contact@iliyasgeorgiev.com
+VMS,Virtual Memory System,en,out_expansion,Операционна_система,contact@iliyasgeorgiev.com
+Windows NT,Windows New Technology,en,out_expansion,Операционна_система,contact@iliyasgeorgiev.com
+XP,eXPerience,en,out_expansion,Операционна_система,contact@iliyasgeorgiev.com
+iOS,iPhone Operating System,en,out_expansion,Операционна_система,contact@iliyasgeorgiev.com
+ГПИ,Графичен Потребителски Интерфейс,bg,in_expansion,Операционна_система,contact@iliyasgeorgiev.com
+САЩ,Съединените Американски Щати,bg,out_expansion,Операционна_система,contact@iliyasgeorgiev.com
+г.,година,bg,out_expansion,Операционна_система,contact@iliyasgeorgiev.com
+др.,други,bg,out_expansion,Операционна_система,contact@iliyasgeorgiev.com
+напр.,например,bg,out_expansion,Операционна_система,contact@iliyasgeorgiev.com
+г.,година,bg,out_expansion,Открито_първенство_на_Франция,contact@iliyasgeorgiev.com
+г-н,господин,bg,out_expansion,Пловдивски_университет,contact@iliyasgeorgiev.com
+проф.,професор,bg,out_expansion,Пловдивски_университет,contact@iliyasgeorgiev.com
+AG,Aktiengesellschaft,none_of_above,out_expansion,Практикер,contact@iliyasgeorgiev.com
+m²,squared metre,en,out_expansion,Практикер,contact@iliyasgeorgiev.com
+напр.,например,bg,out_expansion,Прототип,contact@iliyasgeorgiev.com
+DVD,Digital Video Disc,en,out_expansion,Сам_вкъщи,contact@iliyasgeorgiev.com
+AeA,American Economic Association,en,out_expansion,Силициева_долина,contact@iliyasgeorgiev.com
+PARC,Palo Alto Research Center,en,out_expansion,Силициева_долина,contact@iliyasgeorgiev.com
+FOSS,Free and open-source software,en,in_expansion,Софтуер_с_отворен_код,contact@iliyasgeorgiev.com
+GIMP,GNU Image Manipulation Program,en,out_expansion,Софтуер_с_отворен_код,contact@iliyasgeorgiev.com
+GNATS,Gnu Nyu Ada Translator Computing » Software,en,out_expansion,Софтуер_с_отворен_код,contact@iliyasgeorgiev.com
+GNU,GNU's Not Unix,en,out_expansion,Софтуер_с_отворен_код,contact@iliyasgeorgiev.com
+Git,Global Information Tracker,en,out_expansion,Софтуер_с_отворен_код,contact@iliyasgeorgiev.com
+IBM,International Business Machines,en,out_expansion,Софтуер_с_отворен_код,contact@iliyasgeorgiev.com
+ID,Identity document,en,out_expansion,Софтуер_с_отворен_код,contact@iliyasgeorgiev.com
+IRC,Internet Relay Chat,en,out_expansion,Софтуер_с_отворен_код,contact@iliyasgeorgiev.com
+MYSQL,My Structured Query Language,en,out_expansion,Софтуер_с_отворен_код,contact@iliyasgeorgiev.com
+OSS,operational support system,en,out_expansion,Софтуер_с_отворен_код,contact@iliyasgeorgiev.com
+ОПЛ,Общ публичен лиценз на ГНУ,bg,in_expansion,Софтуер_с_отворен_код,contact@iliyasgeorgiev.com
+вкл.,включително,bg,out_expansion,Софтуер_с_отворен_код,contact@iliyasgeorgiev.com
+пр. Хр.,преди Христа,bg,out_expansion,Старокаменна_епоха,contact@iliyasgeorgiev.com
+пр.,преди,bg,out_expansion,Старокаменна_епоха,contact@iliyasgeorgiev.com
+Хр.,Христа,bg,out_expansion,Старокаменна_епоха,contact@iliyasgeorgiev.com
+W,Watt,en,out_expansion,Транзистор,contact@iliyasgeorgiev.com
+др.,други,bg,out_expansion,Транзистор,contact@iliyasgeorgiev.com
+т.е.,тоест,bg,out_expansion,Транзистор,contact@iliyasgeorgiev.com
+т.нар.,така нарачените,bg,out_expansion,Транзистор,contact@iliyasgeorgiev.com
+.3ds,3D Studio,en,out_expansion,Тримерен_печат,contact@iliyasgeorgiev.com

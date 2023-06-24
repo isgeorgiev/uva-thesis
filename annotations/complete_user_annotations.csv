@@ -1,0 +1,733 @@
+DocID,Title,WikiID,In,Out
+0,Conus_eugrammatus,564261,,"m;meter
+°C;Celsius
+КНР;Китайската народна република
+САЩ;Съединени Американски Щати"
+1,JavaScript,63292,,"ES6;ECMAScript 6
+HTML;HyperText Markup Language
+JSON;JavaScript Object Notation
+г.;година
+VBScript;Microsoft Visual Basic Scripting Edition
+т.е.;тоест
+САЩ;Съединени американски щати"
+2,UML,125558,OMG;Object Management Group,"OMT;Object-modeling technique
+OOSE;Object-Oriented Software Engineering
+UML;Unified Modeling Language
+ИТ;Информационните технологии
+IBM;International Business Machines Corporation
+САЩ;Съединени американски щати"
+3,Административен_акт,104247,АПК;Административнопроцесуалния кодекс,"ДВ;Държавен вестник
+ал.;алинея
+бр.;брой
+т.е.;тоест
+чл.;член"
+4,Акционерно_дружество,142761,"АД;Акционерно дружество
+ЕАД;еднолично акционерно дружество",
+5,Американска_психологична_асоциация,252989,АПА;Американската психологична асоциация,"САЩ;Съединените Американски Щати
+млн.;милион"
+6,Амстердамски_университет,212060,,"ВУЗ;Висше учебно заведение
+г.;година
+млн.;милиона
+хил.;хиляди"
+7,Банкова_консолидационна_компания,297191,БКК;Банковата консолидационна компания,"ДПС;Движение за права и свободи
+ДСК;Държавна спестовна каса
+НДСВ;Национално движение за стабилност и възход
+г.;година
+гр.;град
+млрд.;милиард
+п.к.;пощенски код
+ул.;улица"
+8,Баркод,110993,"EAN;European Article Numbering
+UCC;Uniform Code Council
+UPC;Universal Product Code
+БТПП;Българска търговско-промишлена палата","2D;two dimensional
+ISBN;International Standard Book Number
+ISSN;International Standard Serial Number
+ITF;Interleaved Two of Five
+QR;quick response code
+US;United States
+ЕАН;Европейски номер на артикула
+САЩ;Съединени Американски Щати
+г.;година"
+9,Берлин,18543,ЕС;Европейския съюз,"WTA;Women's Tennis Association
+km;kilometer
+km²;Square kilometer
+m;meter
+°C;Celsius
+БВП;Брутен вътрешен продукт
+ВУЗ;Висше учебно заведени
+ГДР;Германска демократична република
+САЩ;Съединени Американски Щати
+СК;спортен клуб
+СССР;Съюз на съветските социалистически републики
+ФК;Футболен клуб
+ЮНЕСКО;Организация на Обединените нации по въпросите на образованието, науката и културата
+г.;година
+млрд.;милиард
+пр.н.е.;преди новата ера"
+10,Би_Би_Си,116715,,"BBC;British Broadcasting Corporation
+БАН;Българска академия на науките
+акад.;академик
+г.;година
+др.;други"
+11,Би_Ти_Ви,54897,"ДКД;Държавната комисия по далекосъобщения
+КРС;Комисия по регулиране на съобщенията
+СЕМ;Съветът за електронни медии
+СМЕ;Central European Media Enterprises","BBC;British Broadcasting Corporation
+HD;High Definition
+IPTV;Internet Protocol television
+MUX;Multiplexer
+SD;Standard definition
+АД;Акционерно дружество
+ЕАД;Еднолично акционерно дружество
+МС;Министерски съвет
+НДК;Национален дворец на културата
+ООД;Дружество с ограничена отговорност
+ПТС;Подвижна телевизионна станция
+УЕФА;Съюзът на европейските футболни асоциации
+ал.;алинея
+г.;година
+т.;точка
+чл.;член"
+12,БНТ_1,26376,,"DVB-T;Digital Video Broadcasting - Terrestrial
+HD;High Definition
+БНТ;Българската национална телевизия
+г.;година"
+13,БНТ_2,106408,БНТ;Българската национална телевизия,"РТВЦ;Регионален телевизионен център
+г.;година
+ч.;часа"
+14,Бобслей,82686,FIBT;Fédération internationale de bobsleigh et de tobogganing,"kg;kilogram
+САЩ;Съединени Американски Щати
+г.;година
+кг;килограм
+кг.;килограм
+FIBT;Fédération internationale de bobsleigh et de tobogganing
+ГДР;Германска демократична република"
+15,Ботаника,26261,,"др.;други
+ДНК;Дезоксирибонуклеинова киселина"
+16,Българска_народна_банка,50458,БНБ;Българската народна банка,"БКП;Българска Комунистическа Партия
+ДЦК;Държавни Ценни Книжа
+ЛЕОНИА Плюс;LEv OverNight Index Average Plus
+ОЛП;Основен лихвен процент
+бр.;брой
+г.;година
+чл.;член"
+17,Българска_социалистическа_партия,23350,"БСП;Българската социалистическа партия
+ПЕС;Платформа Европейски социалисти
+БКП;Българската комунистическа партия","БЗНС;Български земеделски народен съюз
+БКП;Българската комунистическа партия
+ВС;Върховен съд
+ГЕРБ;Граждани за европейско развитие на България
+ДПС;Движение за права и свободи
+НДСВ;Национално движение за стабилност и възход
+ОДС;Обединени демократични сили
+ОНС;Обикновено народно събрание
+ПК;Политически клуб
+СДС;Съюз на демократичните сили
+г.;година
+БСДП;Българската социалдемократическа партия
+ген.;генерал"
+18,Васил_Левски,3293,"БРЦК;Българския революционен централен комитет
+ВРО;Вътрешната революционна организация","ал.;алинея
+г.;година
+гр.;град
+др.;други
+проф.;професор
+с.;село
+чл.;член
+отд.;отделение"
+19,Водноелектрическа_централа,90390,"ВЕЦ;Водноелектрическа централа
+НВРВН;най-високо работно водно ниво","kW;Kilowatt
+МW;Megawatt
+кг;килограма
+куб.;кубичен"
+20,Волейбол,28979,"CEV;Европейската конфедерация по волейбол
+FIVB;Международната федерация по волейбол
+БНСФ;Българска национална спортна федерация
+КИРВ;Комитет за игрите с ръчна топка
+МОК;Международния олимпийски комитет
+РСВ;Републиканска секция по волейбол
+САЩ;Съединени Американски Щати
+СИРТ;Съюз за игрите с ръчна топка","ФИВБ;Международната федерация по волейбол
+т.нар.;така наречен
+cm;centimeter
+m;meter
+АС-23;Атлетик Слава 23
+САЩ;Съединени Американски Щати
+г.;година
+дн.;днес
+др.;други
+т.е.;тоест"
+21,Временно_руско_управление,189678,ВРУ;Временно руско управление,"г.;година
+с.г.;същата година"
+22,Гъвкав_магнитен_диск,90359,"TPI;tracks-per-inch
+boPET;biaxially-oriented polyethylene terephthalate
+ФДУ;флопи-дисково устройство","IBM;International Business Machines
+KB;kilobytes
+MB;megabytes
+mm;millimeter
+г.;година
+boPET;biaxially-oriented polyethylene terephthalate"
+23,Дисниленд,129463,,"САЩ;Съединените Американски Щати
+г-н;господин
+г.;година
+хил.;хиляди"
+24,Драйвер,399071,WDF;Windows Driver Foundation,"FTDI;Future Technology Devices International
+UART;Universal asynchronous receiver-transmitter
+USB;Universal Serial Bus
+I/O;Input/Оutput
+OS;Operating system"
+25,Дуги_оток,690245,,"г.;година
+км;километър
+км²;квадратен километър
+м;метър
+пр.н.е.;преди новата ера"
+26,Държавен_вестник,26889,ДВ;Държавен вестник,"г.;година
+др.;други
+млн.;милиона"
+27,Държавен_съвет_на_Народна_република_България,91517,НРБ;Народна Република България,"БЗНС;Български земеделски народен съюз
+БКП;Българска комунистическа партия
+НРБ;Народна Република България
+НС;Народно Събрание
+ЦК;Централен комитет
+г.;година
+чл.;член
+вкл.;включително
+зам.;заместник"
+28,Европейска_централна_банка,122413,"ЕНМ;единния надзорен механизъм
+ЕПИ;Европейския паричен институт
+ЕС;Европейския съюз
+ЕСЦБ;Европейската система на централните банки
+ЕФФС;Европейския фонд за финансова стабилност
+ЕЦБ;Европейската централна банка
+НКО;националните компетентни органи
+НЦБ;националните централни банки","г.;година
+ЕФФС;Европейския фонд за финансова стабилност
+т.н.;така нататък"
+29,Железният_човек,254315,,г.;година
+30,Закон_за_трудовата_поземлена_собственост,695375,"БЗНС;Българския земеделски народен съюз
+ТКЗС;Трудово-кооперативни земеделски стопанства",ЗТПС;Закон за трудовата поземлена собственост
+31,Златен_глобус,59386,,"HFPA;Hollywood Foreign Press Association
+САЩ;Съединени Американски Щати"
+32,Иван_Славков,3913,"АЕНОК;Асамблеята на националните олимпийски комитети
+БОК;Българския олимпийски комитет
+БФС;Българския футболен съюз
+МОК;Международния олимпийски комитет","BBC;British Broadcasting Corporation
+ВМЕИ;Висш машинно-електротехнически институт
+ДС;Държавна сигурност
+ПФК;Професионален футболен клуб
+ТАБСО;Транспортно-авиационно българо-съветско общество
+ФИФА;Международна футболна федерация
+ЦСКА;Централен спортен клуб на армията
+г.;година
+ч.;часа"
+33,Изобразително_изкуство,89771,,"CD-ROM;Compact Disc Read-Only Memory
+DVD;Digital Video Disk
+Хр.;Христа
+в.;век
+г.;година
+др.;други
+пр.;преди
+3-D;three-dimensional
+пр. Хр.;преди Христа"
+34,Интегрална_схема,64756,"DSP;Digital Signal Processor
+FPGA;Field Programmable Gate Arrays
+АЦП;Аналогово-цифров преобразувател
+ИС;Интегрална схема
+ЦАП;Цифрово-аналогов преобразувател","AG;Aktiengesellschaft
+ASIC;application-specific integrated circuit
+CMOS;Complementary metal–oxide–semiconductor
+RAM;random-access memory
+W;Watt
+mm;millimeter
+µm;micrometer
+САЩ;Съединени Американски Щати
+г.;година"
+35,Интел,34777,"AMD;Advanced Micro Devices
+FTC;The Federal Trade Commission
+NCM;Nippon Calculating Machine Corporation","AGP;Accelerated Graphics Port
+DEC;Disasters Emergency Committee
+DRAM;Dynamic random-access memory
+ENIAC;Electronic Numerical Integrator And Computer
+FTC;The Federal Trade Commission
+IBM;International Business Machines Corporation
+INTC;Intel Corporation Common Stock
+MOS;metal oxide semiconductor
+MOSFET;metal-oxide-semiconductor field-effect transistor
+NASDAQ;National Association of Securities Dealers Automated Quotations
+NCM;Nippon Calculating Machine Corporation
+PC;Personal Computer
+PCI;Peripheral Component Interconnect
+ROM;Read-only memory
+SRAM;Static Random Access Memory
+TTL;Transistor–transistor Logic
+USB;Universal Serial Bus
+САЩ;Съединени Американски Щати
+г.;година"
+36,Ирландия,18509,ИРА;Републиканската армия,"km2;Square kilometer
+m;meter
+mm;milimeter
+°С;Celsius
+БВП;Брутен вътрешен продукт
+ЕС;Европейски съюз
+ИРА;Републиканската армия
+ИЧР;Индекс на човешкото развитие
+НАТО;Организацията на Северноатлантическия договор
+ОИСР;Организация за икономическо сътрудничество и развитие
+ООН;Организация на обединените нации
+г.;година
+др.;други
+пр.н.е.;преди новата ера"
+37,Капитан_Америка,299954,,"Dr.;Doctor
+Д-р;доктор
+САЩ;Съединени Американски Щати
+г.;година
+кг;килограма
+км;километра"
+38,Княжество_България,63015,,"ВРУ;Временно Руско управление
+ДВ;Държавен Вестник
+ОНС;Обикновено народно събрание
+бр.;брой
+г.;година
+км²;квадратни километри
+чл.;член
+км;километра"
+39,Конституционен_съд_на_България,115263,КС;Конституционният съд,"ДПС;Движение за права и свободи
+ЕС;Европейски съюз
+НС;Народно събрание
+РБ;Република България
+ал.;алинея
+г.;година
+т.;точка
+т. нар;така наречен
+чл.;член"
+40,Крис_Евънс,491367,,г.;година
+41,Леброн_Джеймс,328974,,"MVP;Most Valuable Player
+NBA;National Basketball Association
+ЛА;Лос Анджелис
+НБА;Национална баскетболна асоциация
+г.;година
+кг;килограм
+см;сантиметър"
+42,Лека_атлетика,53566,"EAA;Европейската асоциация по лека атлетика
+IAAF;Международната асоциация на лекоатлетическите федерации
+БФЛА;Българската федерация по лека атлетика
+ИААФ;Международната асоциация на лекоатлетическите федерации","САЩ;Съединени Американски Щати
+г.;година
+км;километър
+пр.н.е.;преди новата ера
+т.е.;тоест"
+43,Лукойл_Нефтохим_Бургас,29609,,"АД;Акционерно дружество
+г.;година
+млн.;милиона
+млрд.;милиарда
+т.;тона
+хил.;хиляди"
+44,Майкъл_Фелпс,131159,,"САЩ;Съединени Американски Щати
+г.;година
+м.;метър"
+45,Марк_Ръфало,398480,,"БАФТА;Британската академия за филмово и телевизионно изкуство
+г.;година"
+46,Международна_автомобилна_федерация,23644,"CSI;Commission Sportive Internationale
+FIA;Fédération Internationale de l'Automobile
+ФИА;Международната автомобилна федерация
+FISA;Fédération Internationale du Sport Automobile","ADAC;Allgemeiner Deutscher Automobil-Club
+AIACR;Association Internationale des Automobile Clubs Reconnus
+FIM;Fédération Internationale de Motocyclisme
+FISA;Fédération Internationale du Sport Automobile
+ITV;Independent Television
+WTCC;World Touring Car Championship
+САЩ;Съединени Американски Щати
+ФИФА;Международната футболна федерация
+г.;година
+фр.;френски"
+47,Метро_Груп,122696,,"GMBH;Gesellschaft mit beschränkter Haftung
+АД;Акционерно дружество
+ООД;Дружество с ограничена отговорност
+г.;година
+д-р;Доктор
+проф.;Професор
+т.е.;тоест"
+48,Микроелектроника,64773,,"САЩ;Съединени Американски Щати
+проф.;професор
+хил.;хиляди"
+49,Микропроцесор,107622,"AMD;Advanced MicroDevices
+BSB;Back Side Bus
+DMA;Direct Memory Access
+FSB;Front Side Bus","т.е.;тоест
+CMOS;Complementary metal–oxide–semiconductor
+CPI;Cycles per instruction
+DOS;disk-operating system
+DSP;Digital Signal Processors
+FLOPS;floating point operations per second
+GB;gigabyte
+GHz;gigahertz
+HDD;Hard disk drive
+IBM;International Business Machines
+MHz;megahertz
+MIPS;Million instructions per second
+PC;Personal Computer
+RAM;Random access memory
+ROM;read only memory
+SSD;Solid state drive
+VM;Virtual Machine
+kHz;kilohertz
+ИС;Информационна система
+КВ;Kilobyte
+MB;Megabyte
+МОП;Метал Оксид Полупроводник
+г.;година
+PDP;Programmed Data Processor
+МП;мулти процесор
+др.;други
+напр.;например"
+50,Мила_Кунис,123567,,"DVD;Digital Video Disc
+САЩ;Съединени Американски Щати
+ССР;Съюз на съветските социалистически републики
+г.;година"
+51,Министерство_на_външните_работи_на_България,62139,"МВРИ;Министерство на външните работи/дела/ и изповеданията
+МВнР;Министерството на външните работи","г.;година
+чл.;член"
+52,Мобилно_устройство,480679,ОС;операционна система,"OS;Operating System
+PDA;Personal digital assistant
+RFID;Radio-frequency identification
+Wi-Fi;wireless fidelity
+ОС;операционна система
+г.;година"
+53,Модерно_семейство,612838,,"HBO;Home Box Office
+г.;година"
+54,Музикален_продуцент,357812,МиР;Музиканти и репертоар,"САЩ;Съединени Американски Щати
+т.нар.;така наречен"
+55,Награди_на_филмовата_академия_на_САЩ,31738,,"cm;centimeter
+kg;kilogram
+САЩ;Съединени Американски Щати
+г.;година"
+56,Народно_събрание,18387,ВНС;Великото народно събрание,"БНТ;Българска Национална Телевизия
+МС;Министерски Съвет
+НС;Народно Събрание
+г.;година
+др.;други
+т.е.;тоест
+чл.;член
+англ.;английски"
+57,НАТО,19507,"SHAPE;Supreme Headquarters Allied Powers Europe
+НАТО;Организацията на Северноатлантическия договор","AAFCE;Allied Air Forces Central Europe
+BAOR;British Army of the Rhine
+BGM;Multiple Environment (B), Surface-Attack (G), Missile (M)
+GLCM;Ground Launched Cruise Missile
+STANAG;standardization agreement
+mm;milimeter
+ГДР;Германска демократична република
+НАТО;Организацията на Северноатлантическия договор
+ООН;Организация на обединените нации
+САЩ;Съединени Американски Щати
+СССР;Съюз на съветските социалистически републики
+ФРГ;Федерална република Германия
+г.;година"
+58,Национална_баскетболна_асоциация,72344,"АБА;Американска баскетболна асоциация
+НБА;Националната баскетболна асоциация
+НБЛ;Националната баскетболна лига
+САЩ;Съединени американски щати","MVP;Most Valuable Player
+г.;година
+др.;други
+т. нар.;така наречен
+т.е.;тоест
+т.н.;така нататък
+САЩ;Съединени американски щати"
+59,Нетфликс,603810,,"CES;Consumer Electronics Show
+г.;година
+млн.;милион"
+60,Оксфордски_университет,54611,,"UCAS;Universities and Colleges Admissions Service
+акад.;академик
+в.;вестник
+г.;година
+св.;свети"
+61,Октомврийска_революция,53109,ВОСР;Велика октомврийска социалистическа революция,"СССР;Съюз на съветските социалистически републики
+г.;година
+др.;други
+др.п.;други подобни"
+62,Олимпийски_игри,19126,МОК;Международен олимпийски комитет,"НБА;Национална баскетболна асоциация
+САЩ;Съединени Американски Щати
+г.;година
+пр.н.е.;преди новата ера
+т.нар.;така наречен"
+63,Операционна_система,27089,"ACP;Airline Control Program
+BOS;Basic Operating System
+DOS;Disk Operating System
+GCOS;General Comprehensive Operating System
+GECOS;General Electric Comprehensive Operating Supervisor
+MTS;Michigan Terminal System
+MUSIC;Multi-User System for Interactive Computing
+ORVYL;Stanford Timesharing System
+OS X;Mac OS
+TCSEC;Trusted Computer System Evaluation Criteria
+TOS;Tape Operating System
+TSS;Time Sharing System
+ГПИ;Графичен Потребителски Интерфейс
+ОС;Операционна система","AIX;Australian Securities Exchange
+ARPANET;Advanced Research Projects Agency Network
+BCPL;Basic Combined Programming Language
+BDS;Berkeley Standard Distribution
+BIOS;Basic Input/Output System
+BSD;Berkeley Software Distribution
+CD;compact disc
+CE;Embedded Compact
+DEC;Digital Equipment Corporation
+DVD;digital versatile disc
+EFI;Extensible Firmware Interface
+FTP;file transfer protocol
+GNOME;GNU Network Object Model Environment
+GNU;GNU's Not Unix
+HP;Hewlett Packard
+IBM;International Business Machines Corporation
+KDE;K desktop environment
+MIT;Massachusetts Institute of Technology
+MS DOS;Microsoft Disk Operating System
+MULTICS;Multiplexed Information and Computing Service
+NT;New Technology
+NTFS;New Technology File System
+OS;Operating System
+PDA;Personal Digital Assistant
+RAM;Random access memory
+RISC;reduced instruction set computer
+ROM;Read Only Memory
+SSH;Secure Shell
+UDF;User-defined function
+UNIX;UNiplexed Information Computing System
+USB;universal serial bus
+UX;User Experience
+VMS;Virtual Memory System
+XP;eXPerience
+iOS;iPhone Operating System
+САЩ;Съединените Американски Щати
+г.;година
+др.;други
+т.е.;тоест
+Windows NT;Windows New Technology
+напр.;например
+BOS;Basic Operating System"
+64,Орден_на_Британската_империя,262018,,г.;година
+65,Остромила,249298,,"ВМРО;Вътрешна македонска революционна организация
+НБКМ;Народна библиотека ""Св. св. Кирил и Методий""
+НБКМ-Сф;Народна библиотека ""Св. св. Кирил и Методий"" София
+Сф;София
+г.;година
+гр.;град
+Пд;Пловдив"
+66,Открито_първенство_на_Франция,54609,,г.;година
+67,Пейо_Яворов,3050,,"ВМОК;Върховен македоно-одрински комитет
+ВМОРО;Вътрешна македоно-одринска революционна организация
+г.;година
+д-р;доктор"
+68,Планова_икономика,231707,,"БВП;Брутен вътрешен продукт
+КНДР;Корейска Народно - Демократична Република
+СССР;Съюз на съветските социалистически републики
+т. нар.;така наречен"
+69,Пловдивски_университет,133741,"ПУ;Паисий Хилендарски
+ВИХВП;Висш институт по хранително-вкусова промишленост","ВИХВП;Висш институт по хранително-вкусова промишленост
+ВПИ;Висш педагогически институт
+бул.;булевард
+г-н;господин
+г.;година
+доц.;доцент
+ул.;улица
+проф.;професор"
+70,Практикер,112033,,"ЕООД;Еднолично дружество с ограничена отговорност
+г.;година
+м²;квадратен метър
+млн.;милион
+т.н.;така нататък
+AG;Aktiengesellschaft
+m²;squared metre"
+71,Програмна_грешка,232378,,г.;година
+72,Прототип,198150,RCs;release candidates,"напр.;например
+т.н.;така наречен"
+73,Реклама,123315,"ААМР;Американската асоциация по маркетинг и реклама
+ЕАРА;Европейската асоциация на рекламните агенции
+ИПП;изключителна представа за продажба",т.н.;така нататък
+74,Република_Кипър,18664,,"km;kilometer
+ВКС;Върховен касационен съд
+ВС;Върховния съд
+ЕС;Европейски съюз
+ООН;Организация на обединените нации
+г.;година
+пр. Хр.;преди Христа"
+75,Робърт_Дауни_Джуниър,279926,,"BAFTA;British Academy of Film and Television Arts
+г.;година"
+76,Сам_вкъщи,242278,,"DVD;Digital Video Disc
+VHS;Video Home System
+САЩ;Съединени Американски Щати
+г.;година
+млн.;милиона"
+77,Световна_организация_за_интелектуална_собственост,128492,"ООН;Организацията на обединените нации
+СОИС;Световната организация за интелектуална собственост","A2K;Access To Knowledge
+IP;Intellectual Property
+PCT;Patent Cooperation Treaty
+WIPOnet;World Intellectual Property Organization network
+СОИСнет;Световната организация за интелектуална собственост мрежа
+г.;година"
+78,Силициева_долина,68328,САЩ;Съединени Американски Щати,"USA;United States of America
+АРПАНЕТ;мрежа на Агенцията за напредничави изследователски проекти
+г.;година
+AeA;American Economic Association
+PARC;Palo Alto Research Center
+САЩ;Съединени Американски Щати"
+79,Скарлет_Йохансон,179401,,"BAFTA;British Academy of Film and Television Arts
+БАФТА;Британската академия за филмово и телевизионно изкуство
+САЩ;Съединени Американски Щати
+г.;година"
+80,Софтуер_с_отворен_код,53085,"CVS;Concurrent Versions System
+MIT;Massachusetts Institute of Technology
+SVN;Subversion
+ИОК;Инициатива за отворен код
+СОК;Софтуер с отворен код
+ССОК;Свободен Софтуер с Отворен Код
+ФСС;Фондацията за свободен софтуер
+BSD;Berkeley Software Distribution
+FOSS;Free and open-source software
+ОПЛ;Общ публичен лиценз на ГНУ","BSD;Berkeley Software Distribution
+GIMP;GNU Image Manipulation Program
+GNATS;Gnu Nyu Ada Translator Computing » Software
+GNU;GNU's Not Unix
+GPL;General Public License
+Git;Global Information Tracker
+IRC;Internet Relay Chat
+MYSQL;My Structured Query Language
+OSI;Open Systems Interconnection
+САЩ;Съединени Американски Щати
+г.;година
+напр.;например
+IBM;International Business Machines
+ID;Identity document
+OSS;operational support system
+вкл.;включително"
+81,Старокаменна_епоха,81684,,"Хр.;Христа
+г.;година
+пр.;преди
+пр. Хр.;преди Христа"
+82,Стефка_Костадинова,9696,БОК;Български Олимпийски Комитет,"10-и;десети
+7-и;седми
+г.;година
+см;сантиметър"
+83,Стокхолмски_синдром,102027,,"ФБР;Федерално бюро за разследване
+т.н.;така нататък"
+84,Съюз_на_българските_автомобилисти,154948,"БАТК;Български автомобилен и туринг клуб
+СБА;Съюзът на българските автомобилисти","AIT;Alliance Internationale de Tourisme
+ARC;Automotive Research Center
+FIA;Fédération Internationale de l'Automobile
+FICC;Fédération Internationale de Camping, Caravanning et Autocaravaning"
+85,ТАБСО,487398,ТАБСО;Транспортно-авиационно българо-съветско общество,"СССР;Съюз на съветските социалистически републики
+г.;година
+млн.;милиона
+хил.;хиляди"
+86,Табулираща_машина,669063,,"IBM;International Business Machines
+г.;година
+т.н.;така нататък"
+87,Транзистор,50055,,"FET;field-effect transistor
+MOSFET;metal-oxide-semiconductor field-effect transistor
+NPN;Negative, Positive, Negative
+PNP;Positive, Negative, Positive
+МОП;метал-оксид-полупроводник
+W;Watt
+др.;други
+т.е.;тоест
+т.нар.;така нарачените"
+88,Тримерен_печат,451930,"CAD;computer aided design
+АП;адитивно производство
+BAAM;Big Area Additive Manufacturing",".3ds;3D Studio
+.dae;Digital Asset Exchange File Format
+.skp;SketchUp
+3D;three-dimensional
+AEC;Architecture Engineering and Construction
+CNC;Computer Numerical Control
+FDM;Fused Deposition Modeling
+г.;година
+щ.д;щатски долата
+3-D;three-dimensional
+AEC;Architecture, Engineering, and Construction
+CAD;Computer-aided design
+CNC;Computerized Numerical Control
+DPI;Dots per inch
+STL;Standard Triangle Language
+µm;micrometer
+млн.;милион"
+89,Уеб_сървър,209082,,"CGI;Computer-generated imagery
+GIF;Graphics Interchange Format
+HTML;HyperText Markup Language
+HTTP;Hypertext Transfer Protocol
+JPEG;Joint Photographic Experts Group
+PNG;Portable Network Graphics
+XML;Extensible Markup Language
+т. нар.;така наречен
+т.е.;тоест
+CGI;Computer-Generated Imagery"
+90,Уебстраница,331505,,"CSS;Cascading Style Sheets
+HTML;HyperText Markup Language
+HTTP;Hypertext Transfer Protocol
+URL;Uniform Resource Locator
+XHTML;Extensible HyperText Markup Language
+вкл.;включително
+др.;друг"
+91,Фестивал,117858,ЕАФ;Европейската асоциация на фестивалите,
+92,ФК_Ювентус,66518,,"КЕШ;Купата на европейските шампиони
+САЩ;Съединени Американски Щати
+УЕФА;Съюзът на европейските футболни асоциации
+ФК;Футболен клуб
+г.;година
+млн;милиона
+бул.;булевард
+млн.;милион"
+93,Формула_1,18674,,"ABS;Anti-lock braking system
+TCS;Traction control system
+km;kilometer
+km/h;kilometers per hour
+mm;millimeter
+НБО;най-бърза обиколка
+САЩ;Съединени Американски Щати
+ФИА;Международна автомобилна федерация
+г.;година
+млн.;милиона
+т.;точка
+т.н.;така нататък
+mm;milimeters
+об/мин;оборота на минута"
+94,Хановер,27359,,г.;година
+95,Хокей_на_лед,20480,"САЩ;Съединените Американски Щати
+НХЛ;Националната хокейна лига на САЩ и Канада","НХЛ;Национална Хокейна Лига
+г.;година
+км;километър
+м;метър
+мм;милиметър
+см;сантиметър"
+96,Хоум_Бокс_Офис,304225,HBO;Home Box Office,"HD;High-definition
+MMDS;Multichannel Multipoint Distribution Service
+САЩ;Съединените Американски Щати
+ТВ;Телевизия
+г.;година
+млн.;милион
+HD;high-definition
+MMDS;Multi Media Distribution Systems
+TV;Television
+САЩ;Съединени Американски Щати
+ТВ;телевизор"
+97,Христо_Ботев,2919,"БРЦК;Българския революционен централен комитет
+БРЦК;Български революционен централен комитет","г.;година
+др.;други"
+98,Хълк,376173,,г.;година
+99,Хърватия,50904,"ООН;Организацията на обединените нации
+СХС;сърби, хървати и словенци","km;kilometer
+km2;Square kilometer
+km²;Square kilometer
+°C;Celsius
+НАТО;Организацията на Северноатлантическия договор
+ЦЕФТА;Централноевропейско споразумение за свободна търговия
+г.;година"
+100,Чип,64785,,"SiO2;Silicon dioxide
+напр.;например"
+101,Шампионска_лига_на_УЕФА,10709,"AG;Aktiengesellschaft
+КЕШ;Купа на европейските шампиони
+ECC;European Champions' Cup
+УЕФА;Съюзът на европейските футболни асоциации","ECC;European Champions' Cup
+УЕФА;Съюзът на европейските футболни асоциации
+г.;година
+AG;Aktiengesellschaft"

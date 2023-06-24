@@ -1,2 +1,5 @@
 # uva-thesis
-Repository for my UVA Master Thesis
+Repository for my UVA Master Thesis - "Acronym expansion system in Bulgarian"
+
+## Abstract
+Scientists from different fields such as biology, chemistry, and physics are using acronyms to make their communication faster. The use of acronyms saves time and space, but it makes the text more complex. Not everyone is an expert and has knowledge in these fields, therefore a system for acronym expansion is needed. This system would identify acronyms and find their expansion, so one can understand the meaning of the acronym with ease. An acronym expansion (AE) can be found in the text in a predefined database or can be extracted from the internet. This thesis focuses on the AE problem within the Bulgarian language and proposes a new no-parentheses algorithm for Acronym Identification (AI). Moreover, a new data set is developed and it is used to test the system. The paper suggests that the newly introduced algorithm significantly increases the recall and F1 Measure in all of the data sets in the system. However, one should consider testing the system with a richer Bulgarian data set and introducing different languages to the system to possibly find a correlation between the acronyms expressed in multiple languages and alphabets
